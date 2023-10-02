@@ -21,10 +21,10 @@ def eliminar_columna(df):
 
 #renombrar columnas
 def renombrar_columnas(df):
-    return df.rename(columns={'IS_STUDENT':'ID_ESTUDIANTE',
-                              'NAME_STUDENT':'NOMBRE_ESTUDIANTE',
-                              'PHONE1': 'TELEFONO1',
-                              'PHONE2':'TELEFONO2'})
+    return df.rename(columns={'IS_STUDENT':'idEstudiante',
+                              'NAME_STUDENT':'nombreEstudiante',
+                              'PHONE1': 'telefono1',
+                              'PHONE2':'telefono2'})
 
 def precesar_archivo_RPT_RG_01_estudiantes(archivo_entrada, archivo_salida):
     df = pd.read_csv(archivo_entrada, )
@@ -33,14 +33,14 @@ def precesar_archivo_RPT_RG_01_estudiantes(archivo_entrada, archivo_salida):
     df = renombrar_columnas(df)
     
     #limpiar columnas
-    df.loc[df['ID_ESTUDIANTE'] == str, 'ID_ESTUDIANTE'] = None
-    df.loc[df['NOMBRE_ESTUDIANTE'] == int, 'NOMBRE_ESTUDIANTE'] = None
+    df.loc[df['idEstudiante'] == str, 'idEstudiante'] = None
+    df.loc[df['nombreEstudiante'] == int, 'nombreEstudiante'] = None
     #df.loc[df['PHONE1'] == str, 'PHONE1'] = None
-    df.loc[df['TELEFONO1'] == 0, 'TELEFONO1'] = None
+    df.loc[df['telefono1'] == 0, 'telefono1'] = None
     #df.loc[df['TELEFONO2'] == str, 'TELEFONO2'] = None
-    df.loc[df['TELEFONO2'] == 0, 'TELEFONO2'] = None
-    df['TELEFONO1'] = df['TELEFONO1'].astype('Int64')#########
-    df['TELEFONO2'] = df['TELEFONO2'].astype('Int64')#########
+    df.loc[df['telefono2'] == 0, 'telefono2'] = None
+    df['telefono1'] = df['telefono1'].astype('Int64')#########
+    df['telefono2'] = df['telefono2'].astype('Int64')#########
     # Crear un nuevo DataFrame con solo la columna 'Nota'
     df_nueva = pd.DataFrame(df)
 
