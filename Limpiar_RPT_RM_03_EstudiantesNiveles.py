@@ -14,19 +14,19 @@ def eliminar_columna(df):
 
 #renombrar columnas
 def renombrar_columnas(df):
-    return df.rename(columns={'CLINAM2':'NOMBRE_ESTUDIANTE',
-                              'GRPCUN2':'ID_ESTUDIANTE',
-                              'Textbox75': 'IDENTIFICACION',
-                              'Textbox76':'TOTAL_CREDITO_CUATRI',
-                              'ESCUELA2':'ESCUELA',
-                              'ENFASIS2':'ENFASIS',
-                              'Textbox77':'TOTAL_ACUMULADO_CUATRIMESTRE',
-                              'CLIPAI2':'NACIONALIDAD',
-                              'Textbox78': 'Religion',
-                              'CARCOD2':'GENERO',
-                              'CARCOD3':'EDAD',
-                              'CLIEM2':'EMAIL',
-                              'CLITCE2':'TELEFONO1',})
+    return df.rename(columns={'CLINAM2':'nombreEstudiante',
+                              'GRPCUN2':'idEstudiante',
+                              'Textbox75': 'identificacion',
+                              'Textbox76':'totalCreditosCuatri',
+                              'ESCUELA2':'escuela',
+                              'ENFASIS2':'enfasis',
+                              'Textbox77':'totalAcumuladoCuatri',
+                              'CLIPAI2':'nacionalidad',
+                              'Textbox78': 'religion',
+                              'CARCOD2':'genero',
+                              'CARCOD3':'edad',
+                              'CLIEM2':'email',
+                              'CLITCE2':'telefono',})
 
 def procesar_archivo_RPT_RM_03_Estudiantes(archivo_entrada, archivo_salida, numero3):
     df = pd.read_csv(archivo_entrada, )
@@ -36,19 +36,19 @@ def procesar_archivo_RPT_RM_03_Estudiantes(archivo_entrada, archivo_salida, nume
     df['Periodo'] = numero3
 
     #limpiar columnas
-    df.loc[df['NOMBRE_ESTUDIANTE'] == int, 'NOMBRE_ESTUDIANTE'] = None
-    df.loc[df['ID_ESTUDIANTE'] == str, 'ID_ESTUDIANTE'] = None
-    df.loc[df['IDENTIFICACION'] == 0, 'IDENTIFICACION'] = None
-    df.loc[df['TOTAL_CREDITO_CUATRI'] == str, 'TOTAL_CREDITO_CUATRI'] = None
-    df.loc[df['ESCUELA'] == int, 'ESCUELA'] = None
-    df.loc[df['ENFASIS'] == int, 'ENFASIS'] = None
-    df.loc[df['TOTAL_ACUMULADO_CUATRIMESTRE'] == str, 'TOTAL_ACUMULADO_CUATRIMESTRE'] = None
-    df.loc[df['NACIONALIDAD'] == int, 'NACIONALIDAD'] = None
-    df.loc[df['GENERO'] == int, 'GENERO'] = None
-    df.loc[df['EDAD'] == str, 'EDAD'] = None
-    df.loc[df['EMAIL'] == int, 'EMAIL'] = None
-    df.loc[df['TELEFONO1'] == 0, 'TELEFONO1'] = None
-    df.loc[df['Religion'] == None, 'Religion'] = "N/a"
+    df.loc[df['nombreEstudiante'] == int, 'nombreEstudiante'] = None
+    df.loc[df['idEstudiante'] == str, 'idEstudiante'] = None
+    df.loc[df['identificacion'] == 0, 'identificacion'] = None
+    df.loc[df['totalCreditosCuatri'] == str, 'totalCreditosCuatri'] = None
+    df.loc[df['escuela'] == int, 'escuela'] = None
+    df.loc[df['enfasis'] == int, 'enfasis'] = None
+    df.loc[df['totalAcumuladoCuatri'] == str, 'totalAcumuladoCuatri'] = None
+    df.loc[df['nacionalidad'] == int, 'nacionalidad'] = None
+    df.loc[df['genero'] == int, 'genero'] = None
+    df.loc[df['edad'] == str, 'edad'] = None
+    df.loc[df['email'] == int, 'email'] = None
+    df.loc[df['telefono'] == 0, 'telefono'] = None
+    df.loc[df['religion'] == None, 'religion'] = "N/a"
 
     # Crear un nuevo DataFrame con solo la columna 'Nota'
     df_nueva = pd.DataFrame(df)
