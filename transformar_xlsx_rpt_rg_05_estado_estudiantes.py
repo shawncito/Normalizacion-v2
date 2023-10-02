@@ -11,15 +11,15 @@ def editar_filas(df, filas):
 
 # Función para renombrar columnas en un DataFrame
 def renombrar_columnas(df):
-    return df.rename(columns={'ID_STUDENT':'ID_ESTUDIANTE',
-                              'NAME_STUDENT':'NOMBRE_ESTUDIANTE',
-                              'PHONE1':'NUMERO_TELEFONO_1',
-                              'PHONE2':'NUMERO_TELEFONO_2',
-                              'GENERO':'GENERO',
-                              'CIUDAD':'CIUDAD',
-                              'DATE_NAC':'FECHA_NACIMIENTO',
-                              'DATE_ING':'FECHA_INGRESO',
-                              'E-MAIL':'CORREO_ELECTRONICO',
+    return df.rename(columns={'ID_STUDENT':'idEstudiante',
+                              'NAME_STUDENT':'nombreEstudiante',
+                              'PHONE1':'numeroTelefono1',
+                              'PHONE2':'numeroTelefono2',
+                              'GENERO':'genero',
+                              'CIUDAD':'ciudad',
+                              'DATE_NAC':'fechaNacimiento',
+                              'DATE_ING':'fechaIngreso',
+                              'E-MAIL':'correoElectronico',
                              })
 
 
