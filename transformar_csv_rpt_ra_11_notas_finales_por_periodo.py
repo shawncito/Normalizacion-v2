@@ -33,15 +33,15 @@ def procesar_archivo_RPT_11(archivo_entrada, archivo_salida, numero):
 
     # Renombrar columnas
     renombrar_dict = {
-        'textbox32': 'Carrera',
-        'textbox46': 'Materia',
-        'textbox48': 'CodClass',
-        'textbox50': 'Grupo',
-        'textbox52': 'Creditos',
-        'textbox54': 'CodProf',
-        'CLINAM'   : 'Nombre',
-        'GRPCUN'   : "Id-Estudiante",
-        'GRPNTA'   : 'Nota',
+        'textbox32': 'carrera',
+        'textbox46': 'materia',
+        'textbox48': 'codigoMateria',
+        'textbox50': 'grupo',
+        'textbox52': 'creditos',
+        'textbox54': 'codigoProfesor',
+        'CLINAM'   : 'nombre',
+        'GRPCUN'   : "idEstudiante",
+        'GRPNTA'   : 'nota',
     }
 
     #limpiar las columna 
