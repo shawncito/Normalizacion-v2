@@ -20,12 +20,12 @@ def procesar_archivo_RPT_RG_04(archivo_entrada, archivo_salida):
 
     # Renombrar columnas (ajusta los nombres de las columnas según tus necesidades)
     renombrar_dict = {
-        'ID_STUDENT': 'ID_ESTUDIANTE',
-        'NAME_STUDENT': 'NOMBRE_ESTUDIANTE',
-        'INST_PROCE': 'INSTITUCION_PROCEDENCIA',
-        'INST_NAME': 'CLASE_INSTITUCION',
-        'INST_NIVEL': 'NIVEL_INSTITUCION',
-        'INST_MODALIDAD': 'MODALIDAD_INSTITUCION'
+        'ID_STUDENT': 'idEstudiante',
+        'NAME_STUDENT': 'nombreEstudiante',
+        'INST_PROCE': 'institucionProcedencia',
+        'INST_NAME': 'codigoInstitucion',
+        'INST_NIVEL': 'nivelInstitucion',
+        'INST_MODALIDAD': 'modalidadInstitucion',
     }
 
     for columna_original, nuevo_nombre in renombrar_dict.items():
