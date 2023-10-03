@@ -23,7 +23,7 @@ def procesar_archivo_RPT_11(archivo_entrada, archivo_salida, numero):
     
     # Utilizar una expresión regular para buscar números al final del nombre del archivo
     
-    df.insert(0, 'Periodo', numero)
+    df.insert(0, 'periodo', numero)
     # Columnas a eliminar
     columnas_a_eliminar = ['textbox16', 'textbox22', 'textbox47', 'textbox36',
                            'textbox40', 'textbox49', 'textbox51', 'textbox53',

@@ -33,8 +33,8 @@ def procesar_archivo_RPT_RM_03_Estudiantes(archivo_entrada, archivo_salida, nume
     # Columnas a eliminar
     df = eliminar_columna(df)
     df = renombrar_columnas(df)
-    df['Periodo'] = numero3
-
+    #df['Periodo'] = numero3
+    df.insert(0, 'periodo', numero3)
     #limpiar columnas
     df.loc[df['nombreEstudiante'] == int, 'nombreEstudiante'] = None
     df.loc[df['idEstudiante'] == str, 'idEstudiante'] = None
