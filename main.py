@@ -44,7 +44,7 @@ archivo_csv_rm_03 = glob.glob(os.path.join(directorio_entrada, patron_nombre_arc
 def RPT_RA_11_NOTAS_FINALES_POR_PERIODO(archivos_csv, directorio_entrada):    
     for archivo_csv in archivos_if:
         nombre_archivo = os.path.basename(archivo_csv)
-        archivo_salida = os.path.join("DATA_NORMALIZADA", nombre_archivo)
+        #archivo_salida = os.path.join("DATA_NORMALIZADA", nombre_archivo)
         patron = r'(\d+)C ?(\d+)'
 
         # Busca la primera coincidencia en el nombre del archivo
@@ -55,12 +55,13 @@ def RPT_RA_11_NOTAS_FINALES_POR_PERIODO(archivos_csv, directorio_entrada):
             numero_despues_de_C = coincidencia.group(1)
             numero_antes_de_C = coincidencia.group(2)
             numero1 = numero_antes_de_C + "-" + numero_despues_de_C
+        archivo_salida = os.path.join("DATA_NORMALIZADA", "NOTAS_FINALES_PERIODO " + numero1 + ".csv")
         procesar_archivo_RPT_11(archivo_csv, archivo_salida, numero1)
-        print("Se ha procesado el archivo: " + archivo_csv)
+        print("Se ha procesado el archivo: " + "NOTAS_FINALES_PERIODO " + numero1)
 
     for archivo_csv in archivos_elif:
         nombre_archivo = os.path.basename(archivo_csv)
-        archivo_salida = os.path.join("DATA_NORMALIZADA", nombre_archivo)
+        #archivo_salida = os.path.join("DATA_NORMALIZADA", nombre_archivo)
         patron_anio = r'(\d{4})[^0-9]'
 
         # Busca el año en el nombre del archivo
@@ -74,8 +75,9 @@ def RPT_RA_11_NOTAS_FINALES_POR_PERIODO(archivos_csv, directorio_entrada):
             anio = coincidencia_anio.group(1)
             quinto_digito = coincidencia_quinto_digito.group(1)
             numero2 = anio+'-'+quinto_digito
+        archivo_salida = os.path.join("DATA_NORMALIZADA", "NOTAS_FINALES_PERIODO " + numero2 + ".csv")
         procesar_archivo_RPT_11(archivo_csv, archivo_salida, numero2)
-        print("Se ha procesado el archivo: " + archivo_csv)
+        print("Se ha procesado el archivo: " + "NOTAS_FINALES_PERIODO " + numero2)
 
 def RPT_RG_04_EstudiantesInstitucion(archivo_xlsx):
     # Procesar archivo XLSX si existe
@@ -122,7 +124,7 @@ def RPT_RM_03_EstudiantesNiveles(archivo_csv_rm_03):
         for archivo_csv in archivo_csv_rm_03:
             # Construir el nombre de archivo de salida
             nombre_archivo = os.path.basename(archivo_csv)
-            archivo_salida = os.path.join("DATA_NORMALIZADA", nombre_archivo[:-4] + "_normalizado.csv")  # Cambiamos la extensión a CSV
+            #archivo_salida = os.path.join("DATA_NORMALIZADA", nombre_archivo[:-4] + "_normalizado.csv")  # Cambiamos la extensión a CSV
 
             patron_digitos = r'(\d)(\d{4})'
 
@@ -133,11 +135,12 @@ def RPT_RM_03_EstudiantesNiveles(archivo_csv_rm_03):
             if coincidencia_periodo:
                 periodo = coincidencia_periodo.group(1)
                 digitos = coincidencia_periodo.group(2)
-                numero3 = periodo + '-' + digitos
+                numero3 = digitos + '-' + periodo
                 
                 # Call the processing function for each file
+                archivo_salida = os.path.join("DATA_NORMALIZADA", "ESTUDIANTES_NIVELES " + numero3 + ".csv")
                 procesar_archivo_RPT_RM_03_Estudiantes(archivo_csv, archivo_salida, numero3)
-                print("Se ha procesado el archivo: " + archivo_csv)
+                print("Se ha procesado el archivo: " + "ESTUDIANTES_NIVELES " + numero3)
 
         # Procesar el archivo CSV de RM_03
         
@@ -168,7 +171,7 @@ def switch(case):
     elif case == 5:
         RPT_RM_03_EstudiantesNiveles(archivo_csv_rm_03)
     elif case == 6:
-        RPT_RA_11_NOTAS_FINALES_POR_PERIODO(archivos_csv)
+        RPT_RA_11_NOTAS_FINALES_POR_PERIODO(archivos_csv, directorio_entrada)
         RPT_RG_04_EstudiantesInstitucion(archivo_xlsx)
         RPT_RG_05_EstadoEstudiantes(archivo_xlsx_rg_05)
         RPT_RG_01_Estudiantes(archivo_csv_rg_01)

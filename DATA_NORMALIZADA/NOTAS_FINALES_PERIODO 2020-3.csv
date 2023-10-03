@@ -1,4 +1,4 @@
-Carrera,Materia,CodClass,Grupo,Creditos,CodProf,Nombre,Id-Estudiante,Nota,Periodo,Nombre
+carrera,materia,codigoMateria,grupo,creditos,codigoProfesor,nombre,idEstudiante,nota,Periodo,Nombre
 ESCUELA DE ADMINISTRACIÓN DE EMPRESAS,Mercadeo II,ADMN302,1.0,3.0,P170201,Montoya Hernández Kemberly Rachelle,150058,99.0,2020-3,
 ESCUELA DE ADMINISTRACIÓN DE EMPRESAS,Mercadeo II,ADMN302,1.0,3.0,P170201,DOWNS GREGORY HILBERT ELIJAH,160323,97.0,2020-3,
 ESCUELA DE ADMINISTRACIÓN DE EMPRESAS,Mercadeo II,ADMN302,1.0,3.0,P170201,ARTIGA ZAVALETA ALBA PATRICIA,170111,79.0,2020-3,
