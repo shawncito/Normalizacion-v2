@@ -89,7 +89,7 @@ def RPT_RG_04_EstudiantesInstitucion(archivo_xlsx):
 
         # Procesar el archivo XLSX
         procesar_archivo_RPT_RG_04(archivo_xlsx, archivo_salida)
-        print("Se ha procesado el archivo: " + archivo_xlsx)
+        print("Se ha procesado el archivo: " + "Informacion_estudiantes_Institucion")
 
 def RPT_RG_05_EstadoEstudiantes(archivo_xlsx_rg_05):
     # Procesar archivo XLSX de RG_05 si existe
@@ -101,7 +101,7 @@ def RPT_RG_05_EstadoEstudiantes(archivo_xlsx_rg_05):
 
         # Procesar el archivo XLSX de RG_05
         procesar_archivo_RPT_RG_05(archivo_xlsx_rg_05, archivo_salida)
-        print("Se ha procesado el archivo: " + archivo_xlsx_rg_05)
+        print("Se ha procesado el archivo: " + "Informacion_estudiantes")
 
 
 def RPT_RG_01_Estudiantes(archivo_csv_rg_01):
@@ -115,7 +115,7 @@ def RPT_RG_01_Estudiantes(archivo_csv_rg_01):
 
         # Procesar el archivo CSV de RG_01
         precesar_archivo_RPT_RG_01_estudiantes(archivo_csv_rg_01, archivo_salida)
-        print("Se ha procesado el archivo: " + archivo_csv_rg_01)
+        print("Se ha procesado el archivo: " + "Numero_Estudiantes")
 
 
 def RPT_RM_03_EstudiantesNiveles(archivo_csv_rm_03):

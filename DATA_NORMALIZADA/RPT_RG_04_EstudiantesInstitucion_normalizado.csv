@@ -1,0 +1,459 @@
+idEstudiante,nombreEstudiante,institucionProcedencia,codigoInstitucion,nivelInstitucion
+10092,UMANZOR MARTÍNEZ BALTAZAR ENRIQUE,UNIVERSIDAD ADVENTISTA DE CENTRO AMÉRICA,Universidad Privada,Licenciatura en Administración de Empresas
+10117,CORRALES HURTADO KAROL TATIANA,CENTRO EDUCATIVO ADVENTISTA DE COSTA RICA,Colegio Público,Bachillerato en Ciencias de la Educación con Énfasis en Estudios Sociales
+10117,CORRALES HURTADO KAROL TATIANA,CENTRO EDUCATIVO ADVENTISTA DE COSTA RICA,Colegio Público,Bachillerato en Ciencias de la Educación con Énfasis en Inglés
+10117,CORRALES HURTADO KAROL TATIANA,CENTRO EDUCATIVO ADVENTISTA DE COSTA RICA,Colegio Público,Licenciatura en Educación con Énfasis en la Enseñanza de Estudios Sociales
+10117,CORRALES HURTADO KAROL TATIANA,COLEGIO CIENTIFICO DEL ATLANTICO,Colegio Público,Bachillerato en Ciencias de la Educación con Énfasis en Estudios Sociales
+10117,CORRALES HURTADO KAROL TATIANA,COLEGIO CIENTIFICO DEL ATLANTICO,Colegio Público,Bachillerato en Ciencias de la Educación con Énfasis en Inglés
+10117,CORRALES HURTADO KAROL TATIANA,COLEGIO CIENTIFICO DEL ATLANTICO,Colegio Público,Licenciatura en Educación con Énfasis en la Enseñanza de Estudios Sociales
+20068,LÓPEZ PIMENTEL DONALD MAURICIO,Instituto Nacional Alejandro de Humboldt,Colegio Extranjero,Bachillerato en Administración de Empresas con Énfasis en Gerencia
+20068,LÓPEZ PIMENTEL DONALD MAURICIO,Instituto Nacional Alejandro de Humboldt,Colegio Extranjero,Licenciatura en Administración de Empresas
+20106,SANTAMARÍA RAMÍREZ FRANCISCO,ESCUELA DE CAPACITACIÓN ADVENTISTA SALVADOREÑA,Colegio Extranjero,Bachillerato en Ciencias de la Educación con Énfasis en Computación
+20106,SANTAMARÍA RAMÍREZ FRANCISCO,ESCUELA DE CAPACITACIÓN ADVENTISTA SALVADOREÑA,Colegio Extranjero,Bachillerato en Ingeniería de Sistemas
+20646,GARCÍA UMANZOR SANTOS MAURICIO,"COLEGIO CENTRO AMÉRICA, EL SALVADOR",Colegio Extranjero,Bachillerato en Teología
+30009,AREVALO MORÁN OLGA ESTELA,UNIVERSIDAD ADVENTISTA DE CENTRO AMÉRICA,Universidad Privada,Bachillerato en Ciencias de la Educación con Énfasis en Preescolar
+30009,AREVALO MORÁN OLGA ESTELA,UNIVERSIDAD ADVENTISTA DE CENTRO AMÉRICA,Universidad Privada,Bachillerato en Enfermería
+30009,AREVALO MORÁN OLGA ESTELA,UNIVERSIDAD ADVENTISTA DE CENTRO AMÉRICA,Universidad Privada,Licenciatura en Educación con Énfasis en la Enseñanza de Preescolar
+30015,CABRERA RODRÍGUEZ MARISSA LISBETH,"INSTITUTO DE CAPACITACIÓN ADVENTISTA DEL PETÉN, GUATEMALA",Colegio Extranjero,Licenciatura en Psicología
+30016,CABALLERO MEJÍA EVA LETICIA,"Instituto Genaro Muñoz Hernández, Honduras",Colegio Extranjero,Bachillerato en Administración de Empresas con Énfasis en Gerencia
+30031,DIMAS RODRÍGUEZ JOSÉ ANELDO,INSTITUTO PROFESIONAL Y TÉCNICO EL VALLE - PANAMÁ,Colegio Extranjero,Bachillerato en Administración de Empresas con Énfasis en Contabilidad
+30031,DIMAS RODRÍGUEZ JOSÉ ANELDO,INSTITUTO PROFESIONAL Y TÉCNICO EL VALLE - PANAMÁ,Colegio Extranjero,Licenciatura en Contaduría Pública
+30031,DIMAS RODRÍGUEZ JOSÉ ANELDO,UNIVERSIDAD ADVENTISTA DE CENTRO AMÉRICA,Universidad Privada,Bachillerato en Administración de Empresas con Énfasis en Contabilidad
+30031,DIMAS RODRÍGUEZ JOSÉ ANELDO,UNIVERSIDAD ADVENTISTA DE CENTRO AMÉRICA,Universidad Privada,Licenciatura en Contaduría Pública
+40082,LOPEZ JIMENEZ ESTHER DE LOS ANGELES,"Ministerio de Educación, Cultura y Deportes",Colegio Público,Bachillerato en Enfermería
+40082,LOPEZ JIMENEZ ESTHER DE LOS ANGELES,"Ministerio de Educación, Cultura y Deportes",Colegio Público,Licenciatura en Enfermería
+50049,JIMÉNEZ TORRES GLORIA CECIBEL,Nuevo Liceo Panamericano,Colegio Extranjero,Licenciatura en Administración de Empresas
+60075,LANDERO GARCÍA DE VASQUEZ DORITA MARGONI,"Eden Seventh Day Adventist High School, Belize",Colegio Extranjero,Bachillerato en Ciencias de la Educación con Énfasis en Inglés
+60075,LANDERO GARCÍA DE VASQUEZ DORITA MARGONI,"Eden Seventh Day Adventist High School, Belize",Colegio Extranjero,Licenciatura en la Enseñanza del Inglés
+60075,LANDERO GARCÍA DE VASQUEZ DORITA MARGONI,"Eden Seventh Day Adventist High School, Belize",Colegio Extranjero,Licenciatura en Psicología
+60075,LANDERO GARCÍA DE VASQUEZ DORITA MARGONI,"Eden Seventh Day Adventist High School, Belize",Colegio Extranjero,Maestría Académica en Administración Educativa
+60079,ANTUNEZ POWERY ZOILA KATHERINE,"INSTITUTO ADVENTISTA MANGROVE BIGHT, HONDURAS",Colegio Extranjero,Licenciatura en la Enseñanza del Inglés
+70008,UMAÑA VILLATORO ROLANDO ALIRIO,"INSTITUTO NACIONAL ISIDRO MÉNDEZ, EL SALVADOR",Colegio Extranjero,Bachillerato en Teología
+70063,CAMACHO SOTO DANIELA,INSTITUTO CENTROAMERICANO ADVENTISTA,Colegio Privado,Bachillerato en Administración de Empresas con Énfasis en Contabilidad
+80069,MOLINA VÁSQUEZ SERGIO VINICIO,"Colegio Evangélico La Patria, Guatemala",Colegio Extranjero,Bachillerato en Teología
+80087,GÓMEZ DÁVILA ILIANA LIZETH,INSTITUTO JOSÉ CECILIO DEL VALLE,Colegio Público,Bachillerato en Ciencias de la Educación con Énfasis en  I y II Ciclos de la Educación General Básica
+80087,GÓMEZ DÁVILA ILIANA LIZETH,INSTITUTO JOSÉ CECILIO DEL VALLE,Colegio Público,Bachillerato en Ciencias de la Educación con Énfasis en Estudios Sociales
+80087,GÓMEZ DÁVILA ILIANA LIZETH,INSTITUTO JOSÉ CECILIO DEL VALLE,Colegio Público,Bachillerato en Ciencias de la Educación con Énfasis en Inglés
+180228,MEJÍA  CHÉVEZ  STEVEN JOSUÉ,"MINISTERIO DE EDUCACIÓN, NICARAGUA",Colegio Extranjero,Licenciatura en Teología
+180229,MIRALDA GUILLÉN  ÉDGAR JOSÉ,"INSTITUTO DEPARTAMENTAL LA FRATERNIDAD, HONDURAS",Colegio Extranjero,Bachillerato en Ingeniería de Sistemas
+180232,CASILDO  MONROE JOCKSAN ALISON,INSTITUTO ADVENTISTA UTILA,Colegio Extranjero,Bachillerato en Administración de Empresas con Énfasis en Gerencia
+180233,MONTERROSO  CRUZ  JOSÉ DANIEL,Colegio Bilingue de Computación El Carmen,Colegio Extranjero,Bachillerato en Teología
+180233,MONTERROSO  CRUZ  JOSÉ DANIEL,Colegio Bilingue de Computación El Carmen,Colegio Extranjero,Licenciatura en Teología
+180301,TUN . ÁNGEL AMBER,BELIZE ADVENTIST COLLEGE,Colegio Extranjero,Bachillerato en Enfermería
+180302,PACHECO  COLINDRES  JOHELY ALEXANDRA,INSTITUTO IDEAL ADVENTISTA,Colegio Extranjero,Bachillerato en Ingeniería de Sistemas
+180303,CÁRCAMO  RAMÍREZ  ROGER ANTONIO,"INSTITUTO TECNOLÓGICO MILENIO, HONDURAS",Colegio Extranjero,Bachillerato en Teología
+180304,MCCOY BUSH  DEVONNIE SHEAVONNE,"INSTITUTO ADVENTISTA BILINGUE FRENCH HARBOUR, HONDURAS",Colegio Extranjero,Bachillerato en Ciencias de la Educación con Énfasis en Música
+180304,MCCOY BUSH  DEVONNIE SHEAVONNE,"INSTITUTO ADVENTISTA BILINGUE FRENCH HARBOUR, HONDURAS",Colegio Extranjero,Licenciatura en Psicología
+180306,CASTRO ESCORCIA ÁNGELO JOSÉ,"MINISTERIO DE EDUCACIÓN, NICARAGUA",Colegio Extranjero,Bachillerato en Teología
+180306,CASTRO ESCORCIA ÁNGELO JOSÉ,"MINISTERIO DE EDUCACIÓN, NICARAGUA",Colegio Extranjero,Licenciatura en Teología
+180307,CAMPBELL PÉREZ  DELWIN LEBON,CENTRO EDUCATIVO ADVENTISTA DE COSTA RICA,Colegio Público,Bachillerato en Administración de Empresas con Énfasis en Gerencia
+180308,CORDERO  BARBOZA  ARIANNA,CENTRO EDUACTIVO ADVENTISTA DE COSTA RICA BILINGUE,Colegio Privado,Bachillerato en Enfermería
+180310,ARCE MEJÍA  IVANIA KARINA,LICEO OTILIO ULATE BLANCO,Colegio Público,Bachillerato en Ingeniería de Sistemas
+180314,FLORES  PÉREZ  GLORIA NOEMÍ,"COLEGIO ADVENTISTA DE COJUTEPEQUE, EL SALVADOR",Colegio Extranjero,Bachillerato en Ciencias de la Educación con Énfasis en Matemáticas
+180315,MEJÍA  MARROQUÍN  ISRAEL FRANCISCO,Complejo Educativo Cantón Tonala,Colegio Extranjero,Bachillerato en Teología
+180315,MEJÍA  MARROQUÍN  ISRAEL FRANCISCO,Complejo Educativo Cantón Tonala,Colegio Extranjero,Licenciatura en Teología
+180316,NÚÑEZ  CASTILLO  TREIZI TERESA,Centro Educacional Adventista,Colegio Extranjero,Bachillerato en Enfermería
+180316,NÚÑEZ  CASTILLO  TREIZI TERESA,Centro Educacional Adventista,Colegio Extranjero,Licenciatura en Enfermería
+180317,CHÁVEZ  MARADIAGA  JOSUÉ DANIEL,COMPLEJO EDUCATIVO CONFEDERACIÓN SUIZA,Colegio Extranjero,Bachillerato en Teología
+180317,CHÁVEZ  MARADIAGA  JOSUÉ DANIEL,COMPLEJO EDUCATIVO CONFEDERACIÓN SUIZA,Colegio Extranjero,Licenciatura en Teología
+180319,FLORES  ROMERO  SANDRA SARAÍ,ESCUELA DE CAPACITACIÓN ADVENTISTA SALVADOREÑA,Colegio Extranjero,Bachillerato en Administración de Empresas con Énfasis en Gerencia
+180320,MENJÍVAR  FLORES  ADRIÁN ARNOLDO,"COLEGIO ADOLFO LOVATO, EL SALVADOR",Colegio Extranjero,Bachillerato en Teología
+180322,CORREA  AGUIRRE  ANGIE NATALIA,COLEGIO AMBIENTALISTA EL ROBLE DE ALAJUELA,Colegio Público,Licenciatura en Psicología
+180323,CAÑENGUEZ  ARAGÓN  HENRY ALEXANDER,Colegio Adventista (EL SALVADOR),Colegio Extranjero,Bachillerato en Ingeniería de Sistemas
+180323,CAÑENGUEZ  ARAGÓN  HENRY ALEXANDER,Colegio Adventista (EL SALVADOR),Colegio Extranjero,Bachillerato en Teología
+180324,LÓPEZ ROVIRA NICOLE MARÍA,COLEGIO TECNICO PROFESIONAL JESUS OCAÑA ROJAS,Colegio Público,Bachillerato en Ciencias de la Educación con Énfasis en  I y II Ciclos de la Educación General Básica
+190119,MIRANDA MEDINA MAYROS,LICEO DE ESCAZU,Colegio Público,Bachillerato en Teología
+190120,CERNA HUERTAS JOSÉ LUIS,INSTITUCIÓN ADVENTISTA ASEANOR NUEVA CAJAMARCA,Colegio Extranjero,Bachillerato en Ingeniería de Sistemas
+190121,FLEY VALLEJOS KEVIN JOSUÉ,"MINISTERIO DE EDUCACIÓN, NICARAGUA",Colegio Extranjero,Bachillerato en Teología
+190124,CANALES HERNÁNDEZ ELISHA MICHELLE,BACHILLERATO POR MADUREZ,Bachillerato por Madurez,Bachillerato en Administración de Empresas con Énfasis en Gerencia
+190126,SALAZAR VALDIVIA STAYCE YANELL,LICEO DE CHACARITA,Colegio Público,Bachillerato en Ciencias de la Educación con Énfasis en Preescolar
+190128,TORRES MENJÍVAR JAIME EDUARDO,"COLEGIO ADVENTISTA JOHN NEVINS ANDREWS, EL SALVADOR",Colegio Extranjero,Bachillerato en Administración de Empresas con Énfasis en Contabilidad
+190128,TORRES MENJÍVAR JAIME EDUARDO,"COLEGIO ADVENTISTA JOHN NEVINS ANDREWS, EL SALVADOR",Colegio Extranjero,Licenciatura en Administración de Empresas
+190129,EBANKS HERNÁNDEZ OLDEN ROYCE,"INSTITUTO ADVENTISTA MANGROVE BIGHT, HONDURAS",Colegio Extranjero,Bachillerato en Ingeniería de Sistemas
+190131,CASCANTE VILLALOBOS YEILYN JEANNETTE,BACHILLERATO POR MADUREZ,Bachillerato por Madurez,Bachillerato en Enfermería
+190132,VILLEGAS LÓPEZ CARLOS ANDRÉS,COLEGIO DE BAGACES,Colegio Público,Bachillerato en Ciencias de la Educación con Énfasis en Estudios Sociales
+190134,CALDERÓN GARCÍA IVETTE PAOLA,BACHILLERATO POR MADUREZ,Bachillerato por Madurez,Bachillerato en Ciencias de la Educación con Énfasis en Preescolar
+190135,PRIEGO CASTELLANOS EDITH MARÍA JOSÉ,"INSTITUTO DE CAPACITACIÓN ADVENTISTA DEL PETÉN, GUATEMALA",Colegio Extranjero,Licenciatura en Psicología
+190136,ALFARO VÍQUEZ ALEJANDRA,BACHILLERATO POR MADUREZ,Bachillerato por Madurez,Licenciatura en Psicología
+190138,LÓPEZ COTOC GUSTAVO ADOLFO,"Colegio Adventista Moisés Tahay,Quetzaltenango",Colegio Extranjero,Bachillerato en Administración de Empresas con Énfasis en Contabilidad
+190138,LÓPEZ COTOC GUSTAVO ADOLFO,"Colegio Adventista Moisés Tahay,Quetzaltenango",Colegio Extranjero,Bachillerato en Teología
+190141,ORTEGA GATICA JOHANA DEL CARMEN,COLEGIO NOCTURNO DE PALMARES,Colegio Público,Bachillerato en Administración de Empresas con Énfasis en Gerencia
+190144,ROJAS ROMERO CRISTHIAN DANIEL,COLEGIO TECNICO PROFESIONAL UPALA,Colegio Público,Bachillerato en Teología
+190144,ROJAS ROMERO CRISTHIAN DANIEL,COLEGIO TECNICO PROFESIONAL UPALA,Colegio Público,Licenciatura en Teología
+190146,ALBANEZ FLORES MARCELA GUADALUPE,INSTITUTO NACIONAL SAN LUIS,Colegio Extranjero,Bachillerato en Ciencias de la Educación con Énfasis en Preescolar
+190146,ALBANEZ FLORES MARCELA GUADALUPE,INSTITUTO NACIONAL SAN LUIS,Colegio Extranjero,Bachillerato en Enfermería
+190147,WILTSHIRE SANARRUSIA ANDREY JERMAINE,COLEGIO TECNICO PROFESIONAL INVU LAS CAÑAS,Colegio Público,Licenciatura en Administración de Empresas
+190147,WILTSHIRE SANARRUSIA ANDREY JERMAINE,"Universidad Nacional,Heredia, Costa Rica",Universidad Privada,Licenciatura en Administración de Empresas
+190148,FUENTES DE RIVERA CELIA BEATRIZ,Instituto Nacional de Apopa,Colegio Extranjero,Bachillerato en Ciencias de la Educación con Énfasis en  I y II Ciclos de la Educación General Básica
+190148,FUENTES DE RIVERA CELIA BEATRIZ,Instituto Nacional de Apopa,Colegio Extranjero,Bachillerato en Ciencias de la Educación con Énfasis en Educación Religiosa
+190149,LÓPEZ CHETE LUIS ROLANDO,CENTRO EDUCATIVO INTELLECTUS PRE-UNIVERSITARIO,Colegio Extranjero,Bachillerato en Teología
+190150,SERRANO BRENES MARÍA  ANGÉLICA,LICEO DE PARAISO,Colegio Público,Licenciatura en Psicología
+190151,CAMACHO ARRONIS AARON,COLEGIO REDENTORISTA SAN ALFONSO,Colegio Público,Bachillerato en Ciencias de la Educación con Énfasis en Inglés
+190152,SOLÍS JARQUÍN KIMBERLY DAYANA,"MINISTERIO DE EDUCACIÓN, NICARAGUA",Colegio Extranjero,Bachillerato en Administración de Empresas con Énfasis en Contabilidad
+190152,SOLÍS JARQUÍN KIMBERLY DAYANA,"MINISTERIO DE EDUCACIÓN, NICARAGUA",Colegio Extranjero,Licenciatura en Administración de Empresas
+190153,ALVARADO FERRERA JOSSELIN BEATRIS,ESCUELA NORMAL DE OCCIDENTE,Colegio Extranjero,Bachillerato en Ciencias de la Educación con Énfasis en Preescolar
+190161,ABARCA ELVIR CARLOS HUMBERTO,"INSTITUTO TÉCNICO VOCACIONAL DEL SUR, HONDURAS",Colegio Extranjero,Bachillerato en Administración de Empresas con Énfasis en Gerencia
+190161,ABARCA ELVIR CARLOS HUMBERTO,"INSTITUTO TÉCNICO VOCACIONAL DEL SUR, HONDURAS",Colegio Extranjero,Licenciatura en Psicología
+190169,MC NAB JACKSON GARRICK ELSWORTH,"INSTITUTO ADVENTISTA BILINGUE FRENCH HARBOUR, HONDURAS",Colegio Extranjero,Bachillerato en Administración de Empresas con Énfasis en Gerencia
+190169,MC NAB JACKSON GARRICK ELSWORTH,"INSTITUTO ADVENTISTA BILINGUE FRENCH HARBOUR, HONDURAS",Colegio Extranjero,Bachillerato en Ciencias de la Educación con Énfasis en Inglés
+190203,ARÉVALO SERRANO MARLON MAURICIO,ESCUELA DE CAPACITACIÓN ADVENTISTA SALVADOREÑA,Colegio Extranjero,Bachillerato en Teología
+190204,COLINDRES BUSTILLO DEIBY DAVID,"INSTITUTO HONDUREÑO DE EDUCACIÓN POR RADIO, HONDURAS",Colegio Extranjero,Bachillerato en Teología
+190207,NÁJERA BANEGAS MARIO RODOLFO,"INSTITUTO SUPERACIÓN SAN FRANCISCO, HONDURAS",Colegio Extranjero,Bachillerato en Teología
+190208,ORELLANA RAMÍREZ GERMAN ANÍBAL,INSTITUTO TECNOLÓGICO DE ADMINISTRACIÓN DE EMPRESAS,Colegio Extranjero,Bachillerato en Administración de Empresas con Énfasis en Gerencia
+190208,ORELLANA RAMÍREZ GERMAN ANÍBAL,INSTITUTO TECNOLÓGICO DE ADMINISTRACIÓN DE EMPRESAS,Colegio Extranjero,Bachillerato en Teología
+190209,VELA VIDES CARLOS FERNANDO,INSTITUTO NACIONAL WALTER THILO DEININGER,Colegio Extranjero,Bachillerato en Enfermería
+190210,BEDOYA SERRANO ADRIANA,INSTITUTO CENTROAMERICANO ADVENTISTA,Colegio Privado,Bachillerato en Administración de Empresas con Énfasis en Gerencia
+190212,SOLÍS CARVAJAL JUAN ELÍAS,INSTITUTO CENTROAMERICANO ADVENTISTA,Colegio Privado,Licenciatura en Psicología
+190213,HERNÁNDEZ RALDA LILIANA MAGALÍ,Colegio Mario Monteforte,Colegio Extranjero,Bachillerato en Ciencias de la Educación con Énfasis en Matemáticas
+190214,AGUILAR GARCÍA ELIZA ANNAVÍ,"Colegio Particular Mixto Paulo Cohelo, Guatemala",Colegio Extranjero,Bachillerato en Ciencias de la Educación con Énfasis en Estudios Sociales
+190214,AGUILAR GARCÍA ELIZA ANNAVÍ,"Colegio Particular Mixto Paulo Cohelo, Guatemala",Colegio Extranjero,Bachillerato en Teología
+190214,AGUILAR GARCÍA ELIZA ANNAVÍ,"Colegio Particular Mixto Paulo Cohelo, Guatemala",Colegio Extranjero,Licenciatura en Psicología
+190215,CORTEZ AGUILAR BRANDON EDENILSON,Colegio Santo Domingo de Guzmán,Colegio Extranjero,Bachillerato en Teología
+190216,DUEÑAS LÓPEZ RUDI WALDEMAR,"Centro Educativo Retalteco de Formación Integral, Guatemala",Colegio Extranjero,Bachillerato en Teología
+190217,ZAMBRANO FUENTES YOSELIN ALEXANDRA,INTITUTO IDEAL ADVENTISTA,Colegio Extranjero,Licenciatura en Psicología
+190218,CASTILLO GUTIÉRREZ LIZ ELENA,CENTRO DE EDUACIÓN MEDA NO GUBERNAMENTAL ADVENT MARANATHA,Colegio Extranjero,Bachillerato en Enfermería
+190219,CUBÍAS FUNES GÉNESIS ANDREA,LICEO CRISTIANO ADVENTISTA,Colegio Extranjero,Bachillerato en Ciencias de la Educación con Énfasis en Preescolar
+190221,CAMACHO MORERA VIELKA,LICEO DE POAS,Colegio Público,Bachillerato en Ciencias de la Educación con Énfasis en Preescolar
+190222,CRUZ RIVERA NATHALY LISSBETH,COLEGIO ADVENTISTA DE SAN SALVADOR,Colegio Extranjero,Bachillerato en Ciencias de la Educación con Énfasis en Matemáticas
+190225,HERNÁNDEZ ROMERO MOISÉS ADOLFO,MARCO TULIO SALAZAR,Colegio Público,Bachillerato en Teología
+190231,GIRÓN CUÉLLAR  SOFÍA ALEJANDRA,"I.T.C.Salomón Sorto Zelaya, Honduras",Colegio Extranjero,Bachillerato en Administración de Empresas con Énfasis en Gerencia
+190235,GÓMEZ SEQUEIRA WISTON,LICEO DE CHACARITA,Colegio Público,Bachillerato en Enfermería
+190238,RAMÍREZ LÓPEZ CRISTIAN JEREMÍAS,INSTITUTO EL PROGRESO GUATEMALA,Colegio Extranjero,Bachillerato en Teología
+190239,ALONZO FELIPE EDILSON OBED,"INSTITUTO DE BACHILLERATO EN COMPUTACIÓN, GUATEMALA",Colegio Extranjero,Bachillerato en Ingeniería de Sistemas
+190239,ALONZO FELIPE EDILSON OBED,"INSTITUTO DE BACHILLERATO EN COMPUTACIÓN, GUATEMALA",Colegio Extranjero,Bachillerato en Teología
+190243,CAMPOS JIMÉNEZ JOSÉ ELÍAS,"Colegio Adventista Sonsonateco, El Salvador",Colegio Extranjero,Bachillerato en Teología
+190249,ALVARADO COLINDRES MALCON JAVIER,INSTITUTO TÉCNICO VOCACIONAL DEL SUR,Colegio Extranjero,Bachillerato en Ingeniería de Sistemas
+190250,FRANCO LÓPEZ JOSÉ EDUARDO,Instituto de Educación Permanente,Colegio Extranjero,Bachillerato en Teología
+190253,LÓPEZ PÉREZ SISARA LORELI,Escuela Normal Mixta Guillermo Suazo C.,Colegio Extranjero,Bachillerato en Ciencias de la Educación con Énfasis en  I y II Ciclos de la Educación General Básica
+190253,LÓPEZ PÉREZ SISARA LORELI,Escuela Normal Mixta Guillermo Suazo C.,Colegio Extranjero,Bachillerato en Ciencias de la Educación con Énfasis en Inglés
+190254,MARCOS GARCÍA ANNA MARITZA,LICEO TÉCNICO QUEZALTEPEQUE,Colegio Extranjero,Bachillerato en Ciencias de la Educación con Énfasis en Educación Religiosa
+190256,WEELKLY WILLIAMSON GUISELLE MARÍA,LICEO NUEVO DE LIMÓN,Colegio Privado,Bachillerato en Ciencias de la Educación con Énfasis en Inglés
+190258,BRENES ROJAS JOSÉ PABLO,COLEGIO TECNICO PROFESIONAL NATANIEL ARIAS MURILLO,Colegio Público,Licenciatura en Psicología
+190261,HYDES MILSON SHAMALIE GENELLE,Alfonso M. Christian Institute,Colegio Extranjero,Bachillerato en Ciencias de la Educación con Énfasis en Inglés
+190307,CENTENO HERRERA KRISTEL JAZMÍN,LICEO DE MIRAMAR,Colegio Público,Bachillerato en Ciencias de la Educación con Énfasis en Español
+890038,Arévalo Vasquez Evelin Marlene,UNIVERSIDAD ADVENTISTA DE CENTRO AMÉRICA,Universidad Privada,Licenciatura en Educación con Énfasis en I y II Ciclos
+900164,MAGALLÓN BONILLA GIANELLA ZAYDEE,INSTITUTO ADVENTISTA PANAMEÑO,Colegio Privado,Bachillerato en Administración de Empresas con Énfasis en Contabilidad
+900164,MAGALLÓN BONILLA GIANELLA ZAYDEE,INSTITUTO ADVENTISTA PANAMEÑO,Colegio Privado,Licenciatura en Administración de Empresas
+910236,PASOS PARRALES DAVID ARTHUR,Forest Lake Academy,Colegio Extranjero,Bachillerato en Ciencias de la Educación con Énfasis en Educación Religiosa
+930200,CARTIN GUERRERO ILEANA FERNANDA,LICEO UNESCO,Colegio Público,Bachillerato en Administración de Empresas con Énfasis en Gerencia
+930200,CARTIN GUERRERO ILEANA FERNANDA,LICEO UNESCO,Colegio Público,Bachillerato en Ciencias de la Educación con Énfasis en Secretariado
+930200,CARTIN GUERRERO ILEANA FERNANDA,LICEO UNESCO,Colegio Público,Bachillerato en Secretariado Profesional Ejecutivo
+940510,CABALLERO SANTAMARÍA YESSICA MITZEL,COLEGIO PARROQUIAL SAN JOSÉ - PANAMÁ,Colegio Extranjero,Bachillerato en Administración de Empresas con Énfasis en Gerencia
+940510,CABALLERO SANTAMARÍA YESSICA MITZEL,COLEGIO PARROQUIAL SAN JOSÉ - PANAMÁ,Colegio Extranjero,Bachillerato en Ciencias de la Educación con Énfasis en Secretariado
+940510,CABALLERO SANTAMARÍA YESSICA MITZEL,COLEGIO PARROQUIAL SAN JOSÉ - PANAMÁ,Colegio Extranjero,Licenciatura en Educación con Énfasis en la Enseñanza del Secretariado
+940510,CABALLERO SANTAMARÍA YESSICA MITZEL,COLEGIO PARROQUIAL SAN JOSÉ - PANAMÁ,Colegio Extranjero,Licenciatura en Psicología
+940510,CABALLERO SANTAMARÍA YESSICA MITZEL,UNIVERSIDAD ADVENTISTA DE CENTRO AMÉRICA,Universidad Privada,Bachillerato en Administración de Empresas con Énfasis en Gerencia
+940510,CABALLERO SANTAMARÍA YESSICA MITZEL,UNIVERSIDAD ADVENTISTA DE CENTRO AMÉRICA,Universidad Privada,Bachillerato en Ciencias de la Educación con Énfasis en Secretariado
+940510,CABALLERO SANTAMARÍA YESSICA MITZEL,UNIVERSIDAD ADVENTISTA DE CENTRO AMÉRICA,Universidad Privada,Licenciatura en Educación con Énfasis en la Enseñanza del Secretariado
+940510,CABALLERO SANTAMARÍA YESSICA MITZEL,UNIVERSIDAD ADVENTISTA DE CENTRO AMÉRICA,Universidad Privada,Licenciatura en Psicología
+940766,CORTÉS RODRÍGUEZ KATTIA SUSANA,LICEO ING. CARLOS PASCUA ZÚÑIGA,Colegio Público,Bachillerato en Administración de Empresas con Énfasis en Gerencia
+960171,QUIRÓS CALVO ANA LORENA,UNIVERSIDAD ADVENTISTA DE CENTRO AMÉRICA,Universidad Privada,Cursos Libres
+960171,QUIRÓS CALVO ANA LORENA,UNIVERSIDAD ADVENTISTA DE CENTRO AMÉRICA,Universidad Privada,Maestría Académica en Administración Educativa
+970086,REID Burns MARK WARDELL,"BELMOPAN COMPREHENSIVE SCHOOL, BELICE",Colegio Extranjero,Bachillerato en Ciencias de la Educación con Énfasis en Inglés
+970086,REID Burns MARK WARDELL,"BELMOPAN COMPREHENSIVE SCHOOL, BELICE",Colegio Extranjero,Licenciatura en la Enseñanza del Inglés
+970086,REID Burns MARK WARDELL,"BELMOPAN COMPREHENSIVE SCHOOL, BELICE",Colegio Extranjero,Maestría Académica en Administración Educativa
+990111,TORRES OJEDA HERMINDA,"INSTITUTO COLOMBO VENEZOLANO, COLOMBIA",Colegio Extranjero,Bachillerato en Ciencias de la Educación con Énfasis en  I y II Ciclos de la Educación General Básica
+990111,TORRES OJEDA HERMINDA,"INSTITUTO COLOMBO VENEZOLANO, COLOMBIA",Colegio Extranjero,Bachillerato en Ciencias de la Educación con Énfasis en Estudios Sociales
+990111,TORRES OJEDA HERMINDA,"INSTITUTO COLOMBO VENEZOLANO, COLOMBIA",Colegio Extranjero,Licenciatura en Educación con Énfasis en la Enseñanza de Estudios Sociales
+80087,GÓMEZ DÁVILA ILIANA LIZETH,INSTITUTO JOSÉ CECILIO DEL VALLE,Colegio Público,Bachillerato en Ciencias de la Educación con Énfasis en Matemáticas
+80087,GÓMEZ DÁVILA ILIANA LIZETH,INSTITUTO JOSÉ CECILIO DEL VALLE,Colegio Público,Licenciatura en Educación con Énfasis en I y II Ciclos
+90002,LOPEZ NUÑEZ MILADY,COLEGIO JOSÉ MARÍA GUTIÉRREZ,Colegio Público,Bachillerato en Ciencias de la Educación con Énfasis en Educación Religiosa
+90002,LOPEZ NUÑEZ MILADY,COLEGIO JOSÉ MARÍA GUTIÉRREZ,Colegio Público,Bachillerato en Teología
+90002,LOPEZ NUÑEZ MILADY,COLEGIO JOSÉ MARÍA GUTIÉRREZ,Colegio Público,Licenciatura en Teología
+90051,PONCE GÓMEZ AMPARO ELIZABETH,"INSTITUTO ADVENTISTA BILINGUE FRENCH HARBOUR, HONDURAS",Colegio Extranjero,Bachillerato en Administración de Empresas con Énfasis en Contabilidad
+100179,MIRANDA HERNÁNDEZ HERBERTH ALEJANDRO,"Instituto Cristiano Juan Pablo, Honduras",Colegio Extranjero,Bachillerato en Teología
+100179,MIRANDA HERNÁNDEZ HERBERTH ALEJANDRO,"Instituto Cristiano Juan Pablo, Honduras",Colegio Extranjero,Licenciatura en Teología
+100231,ORTIZ GARCÍA LILIAN GUADALUPE,UNIVERSIDAD ADVENTISTA DE CENTRO AMÉRICA,Universidad Privada,Bachillerato en Administración de Empresas con Énfasis en Gerencia
+100231,ORTIZ GARCÍA LILIAN GUADALUPE,UNIVERSIDAD ADVENTISTA DE CENTRO AMÉRICA,Universidad Privada,Licenciatura en Administración de Empresas
+110137,MARTÍNEZ MEJÍA MOISÉS DE JESÚS,ESCUELA DE CAPACITACIÓN ADVENTISTA SALVADOREÑA,Colegio Extranjero,Bachillerato en Administración de Empresas con Énfasis en Contabilidad
+110137,MARTÍNEZ MEJÍA MOISÉS DE JESÚS,ESCUELA DE CAPACITACIÓN ADVENTISTA SALVADOREÑA,Colegio Extranjero,Bachillerato en Administración de Empresas con Énfasis en Gerencia
+110137,MARTÍNEZ MEJÍA MOISÉS DE JESÚS,ESCUELA DE CAPACITACIÓN ADVENTISTA SALVADOREÑA,Colegio Extranjero,Licenciatura en Contaduría Pública
+110137,MARTÍNEZ MEJÍA MOISÉS DE JESÚS,UNIVERSIDAD ADVENTISTA DE CENTRO AMÉRICA,Universidad Privada,Bachillerato en Administración de Empresas con Énfasis en Contabilidad
+110137,MARTÍNEZ MEJÍA MOISÉS DE JESÚS,UNIVERSIDAD ADVENTISTA DE CENTRO AMÉRICA,Universidad Privada,Bachillerato en Administración de Empresas con Énfasis en Gerencia
+110137,MARTÍNEZ MEJÍA MOISÉS DE JESÚS,UNIVERSIDAD ADVENTISTA DE CENTRO AMÉRICA,Universidad Privada,Licenciatura en Contaduría Pública
+120017,ARÉVALO MENJIVAR SAÚL STANLEY,UNIVERSIDAD ADVENTISTA DE CENTRO AMÉRICA,Universidad Privada,Bachillerato en Teología
+120017,ARÉVALO MENJIVAR SAÚL STANLEY,UNIVERSIDAD ADVENTISTA DE CENTRO AMÉRICA,Universidad Privada,Licenciatura en Teología
+120028,CHÁVEZ OLIVA DANNY GABRIEL,UNIVERSIDAD ADVENTISTA DE CENTRO AMÉRICA,Universidad Privada,Bachillerato en Teología
+120028,CHÁVEZ OLIVA DANNY GABRIEL,UNIVERSIDAD ADVENTISTA DE CENTRO AMÉRICA,Universidad Privada,Licenciatura en Teología
+120065,URRUTIA VIDAL EDUARDO EMMANUEL,Colegio Adventista (EL SALVADOR),Colegio Extranjero,Licenciatura en Psicología
+120082,REYES -- ROXANA ELIZABETH,"SAN PEDRO HIGH SCHOOL, BELICE",Colegio Extranjero,Bachillerato en Enfermería
+120082,REYES -- ROXANA ELIZABETH,"SAN PEDRO HIGH SCHOOL, BELICE",Colegio Extranjero,Licenciatura en Enfermería
+120084,AGUIRRE MAGAÑA CARLOS ALEXANDER,UNIVERSIDAD ADVENTISTA DE CENTRO AMÉRICA,Universidad Privada,Bachillerato en Administración de Empresas con Énfasis en Gerencia
+120084,AGUIRRE MAGAÑA CARLOS ALEXANDER,UNIVERSIDAD ADVENTISTA DE CENTRO AMÉRICA,Universidad Privada,Bachillerato en Ingeniería de Sistemas
+120084,AGUIRRE MAGAÑA CARLOS ALEXANDER,UNIVERSIDAD ADVENTISTA DE CENTRO AMÉRICA,Universidad Privada,Licenciatura en Ingeniería de Sistemas
+120134,CHAVARRÍA SOTO LEIDY LAURA,BACHILLERATO POR MADUREZ,Bachillerato por Madurez,Bachillerato en Enfermería
+120139,HARRIS BRAYAN LANY,"Instituto Adventista Panameño,Panama",Colegio Extranjero,Bachillerato en Ciencias de la Educación con Énfasis en Educación Religiosa
+120139,HARRIS BRAYAN LANY,"Instituto Adventista Panameño,Panama",Colegio Extranjero,Bachillerato en Teología
+120147,MONTESDEOCA MOYA MARÍA HERLINDA,UNIVERSIDAD ADVENTISTA DE CENTRO AMÉRICA,Universidad Privada,Bachillerato en Administración de Empresas con Énfasis en Contabilidad
+120147,MONTESDEOCA MOYA MARÍA HERLINDA,UNIVERSIDAD ADVENTISTA DE CENTRO AMÉRICA,Universidad Privada,Bachillerato en Administración de Empresas con Énfasis en Gerencia
+120147,MONTESDEOCA MOYA MARÍA HERLINDA,UNIVERSIDAD ADVENTISTA DE CENTRO AMÉRICA,Universidad Privada,Licenciatura en Administración de Empresas
+130046,PEÑA COCA ROCÍO LISBETH,UNIVERSIDAD ADVENTISTA DE CENTRO AMÉRICA,Universidad Privada,Bachillerato en Administración de Empresas con Énfasis en Contabilidad
+130046,PEÑA COCA ROCÍO LISBETH,UNIVERSIDAD ADVENTISTA DE CENTRO AMÉRICA,Universidad Privada,Bachillerato en Administración de Empresas con Énfasis en Gerencia
+130046,PEÑA COCA ROCÍO LISBETH,UNIVERSIDAD ADVENTISTA DE CENTRO AMÉRICA,Universidad Privada,Bachillerato en Enfermería
+130046,PEÑA COCA ROCÍO LISBETH,UNIVERSIDAD ADVENTISTA DE CENTRO AMÉRICA,Universidad Privada,Licenciatura en Enfermería
+130065,DA SILVA SOUZA JOSÉ AUGUSTO,"NÚCLEO DE EDUCACIÓN DE JÓVENES Y ADULTOS, BRASIL",Colegio Extranjero,Bachillerato en Teología
+130068,ROJAS DEZAMU ABIGAIL EUNICE,"COLEGIO PARTICULAR MIXTO CRISTO REY, GUATEMALA",Colegio Extranjero,Bachillerato en Ciencias de la Educación con Énfasis en Preescolar
+130068,ROJAS DEZAMU ABIGAIL EUNICE,"COLEGIO PARTICULAR MIXTO CRISTO REY, GUATEMALA",Colegio Extranjero,Licenciatura en Educación con Énfasis en la Enseñanza de Preescolar
+130113,CASTRO CANALES KLIBIAN ESTEFFY,"INSTITUTO FELIPE ENRIQUE AGUSTINUS, HONDURAS",Colegio Extranjero,Licenciatura en Psicología
+130126,FUENTES GONZÁLEZ JOHANYS MITZELA,UNIVERSIDAD ADVENTISTA DE CENTRO AMÉRICA,Universidad Privada,Bachillerato en Enfermería
+130126,FUENTES GONZÁLEZ JOHANYS MITZELA,UNIVERSIDAD ADVENTISTA DE CENTRO AMÉRICA,Universidad Privada,Licenciatura en Enfermería
+130128,GUTIÉRREZ VILLALOBOS RUDY ALEXANDER,INSTITUTO CENTROAMERICANO ADVENTISTA,Colegio Privado,Bachillerato en Teología
+130135,PÉREZ AMARO DAYANI,"IPUEC PEDRO VÉLIZ HERNÁNDEZ, CUBA",Colegio Extranjero,Bachillerato en Ingeniería de Sistemas
+130135,PÉREZ AMARO DAYANI,"IPUEC PEDRO VÉLIZ HERNÁNDEZ, CUBA",Colegio Extranjero,Licenciatura en Ingeniería de Sistemas
+130203,MARTÍNEZ VELASQUEZ JESSIE FABIOLA,UNIVERSIDAD ADVENTISTA DE CENTRO AMÉRICA,Universidad Privada,Bachillerato en Enfermería
+130203,MARTÍNEZ VELASQUEZ JESSIE FABIOLA,UNIVERSIDAD ADVENTISTA DE CENTRO AMÉRICA,Universidad Privada,Licenciatura en Enfermería
+140024,AGUILAR SÁNCHEZ HELLEN FRANCINI,UNIVERSIDAD ADVENTISTA DE CENTRO AMÉRICA,Universidad Privada,Bachillerato en Ciencias de la Educación con Énfasis en Inglés
+140024,AGUILAR SÁNCHEZ HELLEN FRANCINI,UNIVERSIDAD ADVENTISTA DE CENTRO AMÉRICA,Universidad Privada,Bachillerato en Enfermería
+140024,AGUILAR SÁNCHEZ HELLEN FRANCINI,UNIVERSIDAD ADVENTISTA DE CENTRO AMÉRICA,Universidad Privada,Licenciatura en Enfermería
+140028,NARVAEZ PEÑA ROSANA,"Liceo Colombia Santa Marta, Colombia",Colegio Extranjero,Licenciatura en Psicología
+140036,PINEDA RAMÍREZ OSCAR ADIEL,ESCUELA DE CAPACITACIÓN ADVENTISTA SALVADOREÑA,Colegio Extranjero,Bachillerato en Administración de Empresas con Énfasis en Gerencia
+140036,PINEDA RAMÍREZ OSCAR ADIEL,ESCUELA DE CAPACITACIÓN ADVENTISTA SALVADOREÑA,Colegio Extranjero,Bachillerato en Teología
+140040,AGUILAR MOLINA JENNIFER MARGARITA,COLEGIO ADVENTISTA DE SAN SALVADOR,Colegio Extranjero,Bachillerato en Ciencias de la Educación con Énfasis en Estudios Sociales
+140050,GAVARRETE HERNÁNDEZ EDDIER JOEL,UNIVERSIDAD ADVENTISTA DE CENTRO AMÉRICA,Universidad Privada,Bachillerato en Teología
+140050,GAVARRETE HERNÁNDEZ EDDIER JOEL,UNIVERSIDAD ADVENTISTA DE CENTRO AMÉRICA,Universidad Privada,Licenciatura en Teología
+140051,TORREZ FERRERA WENDY FELIPA,UNIVERSIDAD ADVENTISTA DE CENTRO AMÉRICA,Universidad Privada,Bachillerato en Ciencias de la Educación con Énfasis en Matemáticas
+140051,TORREZ FERRERA WENDY FELIPA,UNIVERSIDAD ADVENTISTA DE CENTRO AMÉRICA,Universidad Privada,Licenciatura en Educación con Énfasis en la Enseñanza de la Matemática
+140052,NAVAS RIVAS DANIELA ELIZABETH,"Escuela Dr, Rodolfo Robles, Guatemala",Colegio Extranjero,Licenciatura en Psicología
+140060,MIJANGOS PÉREZ JOSÉ HOMERO,"INSTITUTO GUILLERMO PUTZEYS ÁLVAREZ, GUATEMALA",Colegio Extranjero,Bachillerato en Teología
+140074,ALFARO ROJAS IVANIA,COLEGIO TECNICO PROFESIONAL DE VENECIA,Colegio Público,Bachillerato en Ciencias de la Educación con Énfasis en Preescolar
+140074,ALFARO ROJAS IVANIA,COLEGIO TECNICO PROFESIONAL DE VENECIA,Colegio Público,Cursos Libres
+140078,BARRANTES BODDEN ANGIE DYANE,UNIVERSIDAD ADVENTISTA DE CENTRO AMÉRICA,Universidad Privada,Bachillerato en Administración de Empresas con Énfasis en Contabilidad
+140078,BARRANTES BODDEN ANGIE DYANE,UNIVERSIDAD ADVENTISTA DE CENTRO AMÉRICA,Universidad Privada,Bachillerato en Ingeniería de Sistemas
+140078,BARRANTES BODDEN ANGIE DYANE,UNIVERSIDAD ADVENTISTA DE CENTRO AMÉRICA,Universidad Privada,Licenciatura en Administración de Empresas
+140080,CHIC GARCÍA PEDRO DANIEL,"LICEO MODELO, GUATEMALA",Colegio Extranjero,Bachillerato en Teología
+140080,CHIC GARCÍA PEDRO DANIEL,"LICEO MODELO, GUATEMALA",Colegio Extranjero,Licenciatura en Teología
+140083,GONZALEZ VALLEJOS NICOLE,"Centro Educativo Adventista, Costa Rica",Colegio Privado,Bachillerato en Ciencias de la Educación con Énfasis en Educación Religiosa
+140083,GONZALEZ VALLEJOS NICOLE,"Centro Educativo Adventista, Costa Rica",Colegio Privado,Bachillerato en Teología
+140084,GARCÍA PÉREZ SAÚL ERNESTO,Instituto de Educación Permanente,Colegio Extranjero,Bachillerato en Teología
+140086,BÁMACA ZACARÍAS JOSÉ DANIEL,"INSTITUTO TECNOLÓGICO BENSON, GUATEMALA",Colegio Extranjero,Bachillerato en Teología
+150002,LEDEZMA ELIZONDO JENNY NETHSAY,UNIVERSIDAD ADVENTISTA DE CENTRO AMÉRICA,Universidad Privada,Bachillerato en Enfermería
+150002,LEDEZMA ELIZONDO JENNY NETHSAY,UNIVERSIDAD ADVENTISTA DE CENTRO AMÉRICA,Universidad Privada,Licenciatura en Enfermería
+150003,ARCE SINCLAIR SHEYLA DANIELA,LICEO RURAL BARRA DEL TORTUGUERO,Colegio Público,Bachillerato en Ciencias de la Educación con Énfasis en  I y II Ciclos de la Educación General Básica
+150003,ARCE SINCLAIR SHEYLA DANIELA,LICEO RURAL BARRA DEL TORTUGUERO,Colegio Público,Bachillerato en Ciencias de la Educación con Énfasis en Inglés
+150003,ARCE SINCLAIR SHEYLA DANIELA,LICEO RURAL BARRA DEL TORTUGUERO,Colegio Público,Licenciatura en Educación con Énfasis en I y II Ciclos
+150014,GUEVARA SANCHEZ JONATHAN GERARDO,"Colegio Hispanoamérica, El Salvador",Colegio Extranjero,Bachillerato en Teología
+150034,TERRY AGUILAR PAOLA LUCIA,"Instituto Adventista Ceibeño, Honduras",Colegio Extranjero,Bachillerato en Administración de Empresas con Énfasis en Gerencia
+150034,TERRY AGUILAR PAOLA LUCIA,"Instituto Adventista Ceibeño, Honduras",Colegio Extranjero,Licenciatura en Administración de Empresas
+150034,TERRY AGUILAR PAOLA LUCIA,UNIVERSIDAD ADVENTISTA DE CENTRO AMÉRICA,Universidad Privada,Bachillerato en Administración de Empresas con Énfasis en Gerencia
+150034,TERRY AGUILAR PAOLA LUCIA,UNIVERSIDAD ADVENTISTA DE CENTRO AMÉRICA,Universidad Privada,Licenciatura en Administración de Empresas
+150037,SOLIS MORALES MARTA OFELIA,LICEO CRISTIANO NAZARETH,Colegio Público,Bachillerato en Ciencias de la Educación con Énfasis en Preescolar
+150037,SOLIS MORALES MARTA OFELIA,LICEO CRISTIANO NAZARETH,Colegio Público,Licenciatura en Psicología
+150039,LARA   EDWIN BRIAN,Penn Foster High School,Colegio Extranjero,Bachillerato en Administración de Empresas con Énfasis en Contabilidad
+150039,LARA   EDWIN BRIAN,Penn Foster High School,Colegio Extranjero,Bachillerato en Enfermería
+150039,LARA   EDWIN BRIAN,Penn Foster High School,Colegio Extranjero,Licenciatura en Enfermería
+150043,MARTÍNEZ FLORES FRANKLIN JAVIER,LICEO RURAL BARRA DEL TORTUGUERO,Colegio Público,Bachillerato en Ingeniería de Sistemas
+150043,MARTÍNEZ FLORES FRANKLIN JAVIER,LICEO RURAL BARRA DEL TORTUGUERO,Colegio Público,Licenciatura en Ingeniería de Sistemas
+150051,RODRIGUEZ JIMENEZ ESTEFANY ALEJANDRA,INSTITUTO REACH INTERNACIONAL,Colegio Extranjero,Bachillerato en Enfermería
+150051,RODRIGUEZ JIMENEZ ESTEFANY ALEJANDRA,INSTITUTO REACH INTERNACIONAL,Colegio Extranjero,Licenciatura en Enfermería
+150056,Tejeira Camaño Militza Aylin,"JOSÉ ANTONIO RAMÓN CANTERA, PANAMÁ",Colegio Extranjero,Bachillerato en Ciencias de la Educación con Énfasis en  I y II Ciclos de la Educación General Básica
+150056,Tejeira Camaño Militza Aylin,"JOSÉ ANTONIO RAMÓN CANTERA, PANAMÁ",Colegio Extranjero,Bachillerato en Ciencias de la Educación con Énfasis en Español
+150056,Tejeira Camaño Militza Aylin,"JOSÉ ANTONIO RAMÓN CANTERA, PANAMÁ",Colegio Extranjero,Licenciatura en Educación con Énfasis en I y II Ciclos
+150066,BORDEN ANARIBA DIANA COLLEENE,"INSTITUTO MARÍA REGINA, HONDURAS",Colegio Extranjero,Licenciatura en Psicología
+150073,ALEMÁN ESPINOZA MELVIN ISMAEL,LICEO DEL SUR,Colegio Público,Bachillerato en Administración de Empresas con Énfasis en Gerencia
+150205,FLORES OSORTO ANNIE NATALLIA,"INSTITUTO ADVENTISTA BILINGUE FRENCH HARBOUR, HONDURAS",Colegio Extranjero,Licenciatura en Psicología
+150221,COLINDRES OLIVA SENIA ABIGAÍL,INSTITUTO IDEAL ADVENTISTA,Colegio Extranjero,Bachillerato en Administración de Empresas con Énfasis en Contabilidad
+150221,COLINDRES OLIVA SENIA ABIGAÍL,INSTITUTO IDEAL ADVENTISTA,Colegio Extranjero,Licenciatura en Administración de Empresas
+150222,VALLEJO SOTO KENNETH,INSTITUTO CENTROAMERICANO ADVENTISTA,Colegio Privado,Bachillerato en Administración de Empresas con Énfasis en Gerencia
+150225,CORVERA MARIN REYNALDO ANTONIO,"GIRLON HIGH SCHOOL, ESTADOS UNIDOS",Colegio Extranjero,Bachillerato en Teología
+150226,COWO BALAM JOSE ROBERTO,Canaan SDA Higt School,Colegio Extranjero,Bachillerato en Ciencias de la Educación con Énfasis en Inglés
+150226,COWO BALAM JOSE ROBERTO,Canaan SDA Higt School,Colegio Extranjero,Bachillerato en Ingeniería de Sistemas
+150226,COWO BALAM JOSE ROBERTO,Canaan SDA Higt School,Colegio Extranjero,Licenciatura en la Enseñanza del Inglés
+150226,COWO BALAM JOSE ROBERTO,UNIVERSIDAD ADVENTISTA DE CENTRO AMÉRICA,Universidad Privada,Bachillerato en Ciencias de la Educación con Énfasis en Inglés
+150226,COWO BALAM JOSE ROBERTO,UNIVERSIDAD ADVENTISTA DE CENTRO AMÉRICA,Universidad Privada,Bachillerato en Ingeniería de Sistemas
+150226,COWO BALAM JOSE ROBERTO,UNIVERSIDAD ADVENTISTA DE CENTRO AMÉRICA,Universidad Privada,Licenciatura en la Enseñanza del Inglés
+150229,FUNEZ GALO KEYLA JUDITH,"Instituto Adventista Ceibeño, Honduras",Colegio Extranjero,Bachillerato en Enfermería
+150229,FUNEZ GALO KEYLA JUDITH,"Instituto Adventista Ceibeño, Honduras",Colegio Extranjero,Licenciatura en Enfermería
+150236,BEZARES MÉRIDA DESMÍN AZUCENA,"LICEO AYUTLECO, GUATEMALA",Colegio Extranjero,Licenciatura en Psicología
+150237,GÓMEZ CHINCHILLA KATHERINE DANIELA,BELIZE ADVENTIST COLLEGE,Colegio Extranjero,Bachillerato en Ciencias de la Educación con Énfasis en Inglés
+150237,GÓMEZ CHINCHILLA KATHERINE DANIELA,BELIZE ADVENTIST COLLEGE,Colegio Extranjero,Bachillerato en Enfermería
+150237,GÓMEZ CHINCHILLA KATHERINE DANIELA,BELIZE ADVENTIST COLLEGE,Colegio Extranjero,Licenciatura en la Enseñanza del Inglés
+160001,WILLIAMS CLARKE VERLY ANDREA,Centro Educativo Adventista de Limón,Colegio Privado,Bachillerato en Ciencias de la Educación con Énfasis en Inglés
+160001,WILLIAMS CLARKE VERLY ANDREA,Centro Educativo Adventista de Limón,Colegio Privado,Bachillerato en Ciencias de la Educación con Énfasis en Preescolar
+160001,WILLIAMS CLARKE VERLY ANDREA,Centro Educativo Adventista de Limón,Colegio Privado,Cursos Libres
+160004,ARAYA MENDOZA MARIELA,LICEO MIGUEL ARAYA VENEGAS,Colegio Público,Bachillerato en Ciencias de la Educación con Énfasis en Preescolar
+160004,ARAYA MENDOZA MARIELA,LICEO MIGUEL ARAYA VENEGAS,Colegio Público,Cursos Libres
+160004,ARAYA MENDOZA MARIELA,LICEO MIGUEL ARAYA VENEGAS,Colegio Público,Maestría Académica en Administración Educativa
+160008,FRANCO . JONATHAN JOSUÉ,"LEYDEN HIGH SCHOOL, USA",Colegio Extranjero,Bachillerato en Teología
+160010,GUZMÁN DIXON OSCAR ULISES,BACHILLER EN CIENCIAS Y LETRAS,Colegio Extranjero,Bachillerato en Teología
+160018,RIVERA QUINTANILLA JONATAN SAÚL,UNIVERSIDAD ADVENTISTA DE CENTRO AMÉRICA,Universidad Privada,Bachillerato en Teología
+160018,RIVERA QUINTANILLA JONATAN SAÚL,UNIVERSIDAD ADVENTISTA DE CENTRO AMÉRICA,Universidad Privada,Licenciatura en Teología
+160024,TAPIA ARÉVALO JONATAN ORLANDO,CENTRO EDUCATIVO ADVENTISTA DE COSTA RICA,Colegio Público,Bachillerato en Enfermería
+160024,TAPIA ARÉVALO JONATAN ORLANDO,CENTRO EDUCATIVO ADVENTISTA DE COSTA RICA,Colegio Público,Licenciatura en Enfermería
+160037,CAMPOS PAREDES JOSÉ RICARDO JUNIOR,"COLEGIO ADVENTISTA EL PROGRESO, GUATEMALA",Colegio Privado,Bachillerato en Teología
+160037,CAMPOS PAREDES JOSÉ RICARDO JUNIOR,"COLEGIO ADVENTISTA EL PROGRESO, GUATEMALA",Colegio Privado,Licenciatura en Teología
+160041,MELÉNDEZ REYES CELSO SAUL,"COLEGIO ADVENTISTA JOHN NEVINS ANDREWS, EL SALVADOR",Colegio Extranjero,Bachillerato en Teología
+160041,MELÉNDEZ REYES CELSO SAUL,"COLEGIO ADVENTISTA JOHN NEVINS ANDREWS, EL SALVADOR",Colegio Extranjero,Licenciatura en Teología
+160052,CUYUCH CLAROS BRENDA YANETH,"Instituto Nacional, 14 de Julio de 1875,ES",Colegio Extranjero,Bachillerato en Ciencias de la Educación con Énfasis en Inglés
+160052,CUYUCH CLAROS BRENDA YANETH,"Instituto Nacional, 14 de Julio de 1875,ES",Colegio Extranjero,Licenciatura en la Enseñanza del Inglés
+160053,CEREN LÓPEZ SANDRA JOVITA,"COLEGIO ADVENTISTA DE QUEZALTEPEQUE, EL SALVADOR",Colegio Extranjero,Licenciatura en Psicología
+160056,SÁNCHEZ NÁJERA ALISSE AMMI,"COLEGIO ADVENTISTA DE COJUTEPEQUE, EL SALVADOR",Colegio Extranjero,Licenciatura en Psicología
+160062,GUTIERREZ SANCHEZ JUDITH VANESSA,UNIVERSIDAD ADVENTISTA DE CENTRO AMÉRICA,Universidad Privada,Bachillerato en Administración de Empresas con Énfasis en Contabilidad
+160062,GUTIERREZ SANCHEZ JUDITH VANESSA,UNIVERSIDAD ADVENTISTA DE CENTRO AMÉRICA,Universidad Privada,Bachillerato en Administración de Empresas con Énfasis en Gerencia
+160062,GUTIERREZ SANCHEZ JUDITH VANESSA,UNIVERSIDAD ADVENTISTA DE CENTRO AMÉRICA,Universidad Privada,Licenciatura en Administración de Empresas
+160066,ESPINOZA LÓPEZ MAYKELING VANESSA,CENTRO EDUCATIVO ADVENTISTA DE LIMÓN,Colegio Privado,Bachillerato en Enfermería
+160066,ESPINOZA LÓPEZ MAYKELING VANESSA,CENTRO EDUCATIVO ADVENTISTA DE LIMÓN,Colegio Privado,Licenciatura en Enfermería
+160077,VASQUEZ ROSAS RAUL,INSTITUTO REACH INTERNACIONAL,Colegio Extranjero,Bachillerato en Enfermería
+160077,VASQUEZ ROSAS RAUL,INSTITUTO REACH INTERNACIONAL,Colegio Extranjero,Licenciatura en Enfermería
+160089,HIDALGO HERNÁNDEZ SUEIBY MERARY,"INSTITUTO PRIVADO CRISTIANO, JERUSALEN, HONDURAS",Colegio Extranjero,Bachillerato en Ingeniería de Sistemas
+160089,HIDALGO HERNÁNDEZ SUEIBY MERARY,"INSTITUTO PRIVADO CRISTIANO, JERUSALEN, HONDURAS",Colegio Extranjero,Licenciatura en Psicología
+160200,ABURTO ZAPATA ANDRES ALBERTO,"COLEGIO BENJAMÍN ZELEDÓN RODRÍGUEZ, NICARAGUA",Colegio Extranjero,Bachillerato en Teología
+160200,ABURTO ZAPATA ANDRES ALBERTO,"COLEGIO BENJAMÍN ZELEDÓN RODRÍGUEZ, NICARAGUA",Colegio Extranjero,Licenciatura en Teología
+160211,BOGANTES CALDERON YUSLIN ADRIANA,"INSTITUTO CIENTÍFICO SAN MARCOS, COSTA RICA",Colegio Público,Bachillerato en Enfermería
+160211,BOGANTES CALDERON YUSLIN ADRIANA,"INSTITUTO CIENTÍFICO SAN MARCOS, COSTA RICA",Colegio Público,Licenciatura en Enfermería
+160212,DUARTE CACERES JOSÉ CARLOS,"INSTITUTO FRANCISCO JAVIER MEJÍA, HONDURAS",Colegio Extranjero,Bachillerato en Ciencias de la Educación con Énfasis en Inglés
+160212,DUARTE CACERES JOSÉ CARLOS,"INSTITUTO FRANCISCO JAVIER MEJÍA, HONDURAS",Colegio Extranjero,Bachillerato en Ingeniería de Sistemas
+160212,DUARTE CACERES JOSÉ CARLOS,"INSTITUTO FRANCISCO JAVIER MEJÍA, HONDURAS",Colegio Extranjero,Cursos Libres
+160212,DUARTE CACERES JOSÉ CARLOS,"INSTITUTO FRANCISCO JAVIER MEJÍA, HONDURAS",Colegio Extranjero,Licenciatura en Ingeniería de Sistemas
+160219,TRUJILLO LEÓN VASTI ELIZABETH,"COLEGIO PARTICULAR MIXTO LA ILUSTRACIÓN, GUATEMALA",Colegio Extranjero,Bachillerato en Administración de Empresas con Énfasis en Contabilidad
+160219,TRUJILLO LEÓN VASTI ELIZABETH,"COLEGIO PARTICULAR MIXTO LA ILUSTRACIÓN, GUATEMALA",Colegio Extranjero,Licenciatura en Administración de Empresas
+160220,VALDEZ RÍOS ALINA ALEXANDRA,"CENTRO EDUCATIVO ADVENTISTA DE PASO CANOAS, COSTA RICA",Colegio Privado,Bachillerato en Enfermería
+160220,VALDEZ RÍOS ALINA ALEXANDRA,"CENTRO EDUCATIVO ADVENTISTA DE PASO CANOAS, COSTA RICA",Colegio Privado,Licenciatura en Enfermería
+160230,VANEGA FLORES JUAN BOSCO,"COLEGIO VOCACIONAL ADVENTISTA DE NICARAGUA, NICARAGUA",Colegio Extranjero,Bachillerato en Teología
+160230,VANEGA FLORES JUAN BOSCO,"COLEGIO VOCACIONAL ADVENTISTA DE NICARAGUA, NICARAGUA",Colegio Extranjero,Licenciatura en Teología
+160232,PADILLA LUPIAC MARÍA FERNANDA,"MINISTERIO DE EDUCACIÓN, NICARAGUA",Colegio Extranjero,Bachillerato en Enfermería
+160232,PADILLA LUPIAC MARÍA FERNANDA,"MINISTERIO DE EDUCACIÓN, NICARAGUA",Colegio Extranjero,Licenciatura en Enfermería
+160237,ALVARADO NUÑEZ YENIFER YASMIN,"Instituto Adventista Ceibeño, Honduras",Colegio Extranjero,Bachillerato en Enfermería
+160307,GARAY RODRÍGUEZ YENIS RAQUEL,"Instituto Nacional Usulután, El Salvador",Colegio Extranjero,Bachillerato en Ciencias de la Educación con Énfasis en Inglés
+160307,GARAY RODRÍGUEZ YENIS RAQUEL,"Instituto Nacional Usulután, El Salvador",Colegio Extranjero,Licenciatura en la Enseñanza del Inglés
+160310,MORA QUIRÓS LOANNA,INSTITUTO CENTROAMERICANO ADVENTISTA,Colegio Privado,Bachillerato en Administración de Empresas con Énfasis en Contabilidad
+160310,MORA QUIRÓS LOANNA,INSTITUTO CENTROAMERICANO ADVENTISTA,Colegio Privado,Bachillerato en Administración de Empresas con Énfasis en Gerencia
+160310,MORA QUIRÓS LOANNA,INSTITUTO CENTROAMERICANO ADVENTISTA,Colegio Privado,Licenciatura en Psicología
+160323,DOWNS GREGORY HILBERT ELIJAH,INSTITUTO CENTROAMERICANO ADVENTISTA,Colegio Privado,Bachillerato en Administración de Empresas con Énfasis en Gerencia
+160323,DOWNS GREGORY HILBERT ELIJAH,INSTITUTO CENTROAMERICANO ADVENTISTA,Colegio Privado,Bachillerato en Enfermería
+160328,BARRAZA MORÁN ISRAEL ANTONIO,"LICEO NOCTURNO SAN PEDRO, COSTA RICA",Colegio Público,Bachillerato en Administración de Empresas con Énfasis en Contabilidad
+160328,BARRAZA MORÁN ISRAEL ANTONIO,"LICEO NOCTURNO SAN PEDRO, COSTA RICA",Colegio Público,Licenciatura en Administración de Empresas
+170105,CAAMAL CANTO SAÚL ALBERTO,CENTRO DE BACHILLERATO TECNOLÓGICO INDUSTRIAL Y DE SERVICIOS,Colegio Extranjero,Bachillerato en Teología
+170105,CAAMAL CANTO SAÚL ALBERTO,CENTRO DE BACHILLERATO TECNOLÓGICO INDUSTRIAL Y DE SERVICIOS,Colegio Extranjero,Licenciatura en Teología
+170108,ABARCA ELVIR DELMI XIOMARA,ESCUELA NORMAL MIXTA DEL SUR,Colegio Extranjero,Licenciatura en Psicología
+170110,ANDERSON    RAY ANN,BELIZE ADVENTIST COLLEGE,Colegio Extranjero,Bachillerato en Enfermería
+170117,CASTILLO ULATE ROSILEY MARÍA,INSTITUTO CENTROAMERICANO ADVENTISTA,Colegio Privado,Licenciatura en Psicología
+170118,PACHECO MENÉNDEZ KEREN SARAÍ,COLEGIO ADVENTISTA DE SAN SALVADOR,Colegio Extranjero,Bachillerato en Administración de Empresas con Énfasis en Contabilidad
+170118,PACHECO MENÉNDEZ KEREN SARAÍ,COLEGIO ADVENTISTA DE SAN SALVADOR,Colegio Extranjero,Licenciatura en Administración de Empresas
+170121,REYES BROWN ARMANDO ALEXANDER,INSTITUTO DE ALAJUELA,Colegio Público,Bachillerato en Ingeniería de Sistemas
+170121,REYES BROWN ARMANDO ALEXANDER,INSTITUTO DE ALAJUELA,Colegio Público,Licenciatura en Ingeniería de Sistemas
+170122,MENDOZA SALGADO LEVY ABBYU,UNIVERSIDAD ADVENTISTA DE CENTRO AMÉRICA,Universidad Privada,Bachillerato en Teología
+170122,MENDOZA SALGADO LEVY ABBYU,UNIVERSIDAD ADVENTISTA DE CENTRO AMÉRICA,Universidad Privada,Licenciatura en Teología
+170128,ZEPEDA HERNÁNDEZ CARLOS ALEXIS,"INSTITUTO NACIONAL DE USULUTÁN, EL SALVADOR",Colegio Extranjero,Bachillerato en Teología
+170128,ZEPEDA HERNÁNDEZ CARLOS ALEXIS,"INSTITUTO NACIONAL DE USULUTÁN, EL SALVADOR",Colegio Extranjero,Licenciatura en Teología
+170138,NÚÑEZ ALVAREZ LUZ ANGELA,COLEGIO TECNICO PROFESIONAL LA SUIZA,Colegio Público,Bachillerato en Ciencias de la Educación con Énfasis en Preescolar
+170138,NÚÑEZ ALVAREZ LUZ ANGELA,COLEGIO TECNICO PROFESIONAL LA SUIZA,Colegio Público,Licenciatura en Educación con Énfasis en la Enseñanza de Preescolar
+170141,DELGADO SIBAJA KAROLAYN ALICIA,LICEO OTILIO ULATE BLANCO,Colegio Público,Licenciatura en Psicología
+170145,OCON BRAVO GLORIA,COLEGIO DEL VALLE,Colegio Público,Bachillerato en Ciencias de la Educación con Énfasis en Preescolar
+170147,HERNANDEZ DELGADO MARIA ISABEL,"Colegio Técnico San Isidro Pérez Zeledón, Costa Rica",Colegio Privado,Bachillerato en Administración de Empresas con Énfasis en Gerencia
+170149,FALLAS POLANCO JASON ARMANDO,ESCUELA DE CAPACITACIÓN ADVENTISTA SALVADOREÑA,Colegio Extranjero,Bachillerato en Enfermería
+170149,FALLAS POLANCO JASON ARMANDO,ESCUELA DE CAPACITACIÓN ADVENTISTA SALVADOREÑA,Colegio Extranjero,Bachillerato en Ingeniería de Sistemas
+170153,MITRE MARTINEZ JOHNNY WALTER,INSTITUTO LABORAL ADVENTISTA PANAMEÑO,Colegio Extranjero,Bachillerato en Teología
+170153,MITRE MARTINEZ JOHNNY WALTER,INSTITUTO LABORAL ADVENTISTA PANAMEÑO,Colegio Extranjero,Licenciatura en Teología
+170156,RUGAMA PRAVIA NEVER ONEY,"MINISTERIO DE EDUCACIÓN, NICARAGUA",Colegio Extranjero,Bachillerato en Teología
+170156,RUGAMA PRAVIA NEVER ONEY,"MINISTERIO DE EDUCACIÓN, NICARAGUA",Colegio Extranjero,Licenciatura en Teología
+170162,CASIA CHACON PEDRO LUIS,UNIVERSIDAD ADVENTISTA DE CENTRO AMÉRICA,Universidad Privada,Bachillerato en Teología
+170162,CASIA CHACON PEDRO LUIS,UNIVERSIDAD ADVENTISTA DE CENTRO AMÉRICA,Universidad Privada,Licenciatura en Teología
+170163,ARTEAGA SÁNCHEZ WILSON OMAR,UNIVERSIDAD ADVENTISTA DE CENTRO AMÉRICA,Universidad Privada,Bachillerato en Teología
+170163,ARTEAGA SÁNCHEZ WILSON OMAR,UNIVERSIDAD ADVENTISTA DE CENTRO AMÉRICA,Universidad Privada,Licenciatura en Teología
+170167,CAMARGO APARICIO BENJAMÍN,"ANGEL MARÍA HERRERA, PANAMÁ",Colegio Extranjero,Bachillerato en Teología
+170167,CAMARGO APARICIO BENJAMÍN,"ANGEL MARÍA HERRERA, PANAMÁ",Colegio Extranjero,Licenciatura en Teología
+170172,SÁNCHEZ CASTRO ISMAEL ORLANDO,Colegio Adventista (EL SALVADOR),Colegio Extranjero,Bachillerato en Teología
+170175,MARTÍNEZ PORTILLO JERSON CALIXTO,Colegio Adventista (EL SALVADOR),Colegio Extranjero,Bachillerato en Ciencias de la Educación con Énfasis en  I y II Ciclos de la Educación General Básica
+170175,MARTÍNEZ PORTILLO JERSON CALIXTO,Colegio Adventista (EL SALVADOR),Colegio Extranjero,Bachillerato en Ingeniería de Sistemas
+170177,HERNÁNDEZ ROJAS SAÚL ALEXANDER,ESCUELA DE CAPACITACIÓN ADVENTISTA SALVADOREÑA,Colegio Extranjero,Bachillerato en Teología
+170183,PEÑATE CASTRO JONATHAN JAVIER,ESCUELA DE CAPACITACIÓN ADVENTISTA SALVADOREÑA,Colegio Extranjero,Bachillerato en Teología
+170183,PEÑATE CASTRO JONATHAN JAVIER,ESCUELA DE CAPACITACIÓN ADVENTISTA SALVADOREÑA,Colegio Extranjero,Licenciatura en Teología
+170183,PEÑATE CASTRO JONATHAN JAVIER,UNIVERSIDAD ADVENTISTA DE CENTRO AMÉRICA,Universidad Privada,Bachillerato en Teología
+170183,PEÑATE CASTRO JONATHAN JAVIER,UNIVERSIDAD ADVENTISTA DE CENTRO AMÉRICA,Universidad Privada,Licenciatura en Teología
+170213,ÁLVAREZ BENAVIDES SUSAN REBECA,COLEGIO TECNICO PROFESIONAL JESUS OCAÑA ROJAS,Colegio Público,Bachillerato en Ciencias de la Educación con Énfasis en Español
+170213,ÁLVAREZ BENAVIDES SUSAN REBECA,COLEGIO TECNICO PROFESIONAL JESUS OCAÑA ROJAS,Colegio Público,Bachillerato en Ciencias de la Educación con Énfasis en Inglés
+170213,ÁLVAREZ BENAVIDES SUSAN REBECA,COLEGIO TECNICO PROFESIONAL JESUS OCAÑA ROJAS,Colegio Público,Licenciatura en Educación con Énfasis en la Enseñanza del Español
+170221,CALZADÍA HERNÁNDEZ MAXIMO ENRIQUE,"LICEO RAFAEL MENDOZA, EL SALVADOR",Colegio Extranjero,Bachillerato en Teología
+170224,CASTILLO RODAS LUIS ALBERTO,INSTITUTO CENTROAMERICANO ADVENTISTA,Colegio Privado,Bachillerato en Administración de Empresas con Énfasis en Gerencia
+170228,ALVARADO PAGUADA LESTY MARISOL,"INSTITUTO DEPARTAMENTAL LA FRATERNIDAD, HONDURAS",Colegio Extranjero,Bachillerato en Ciencias de la Educación con Énfasis en Preescolar
+170228,ALVARADO PAGUADA LESTY MARISOL,"INSTITUTO DEPARTAMENTAL LA FRATERNIDAD, HONDURAS",Colegio Extranjero,Licenciatura en Educación con Énfasis en la Enseñanza de Preescolar
+170240,RIVERA   JOSÉ VIDAL,"Liceo Cristiano Adventista,ES",Colegio Extranjero,Bachillerato en Teología
+170243,TRIGUEROS PORRAS NATALIA,BACHILLERATO POR MADUREZ,Bachillerato por Madurez,Bachillerato en Enfermería
+170245,CHI LINO SAMUEL MATIAS,BELIZE ADVENTIST COLLEGE,Colegio Extranjero,Bachillerato en Teología
+170302,Bermudez Sanchez Justin Omar,COLEGIO ACADEMICO DE LEPANTO,Colegio Público,Bachillerato en Ciencias de la Educación con Énfasis en Estudios Sociales
+170305,CAMPOS   ALLANY ALILLANIE ANTONIA ALBERTA,Canaan SDA Higt School,Colegio Extranjero,Bachillerato en Enfermería
+170308,Aleman Acevedo Claudina Vanessa,"MINISTERIO DE EDUCACIÓN, CULTURA Y DEPORTES",Colegio Extranjero,Bachillerato en Ciencias de la Educación con Énfasis en Preescolar
+170310,Walker . Jonathan Immanu-el Michael,"R.K. MIDDELBARE TECHNISCHE SCHOOL, CURAZAO",Colegio Extranjero,Licenciatura en Psicología
+180102,MARÍN MUÑOZ SHIRLEY MAGALY,BACHILLERATO POR MADUREZ,Bachillerato por Madurez,Licenciatura en Psicología
+180104,ACOSTA  SOZA EYSELL DE JESÚS,CINDEA ESCAZÚ,Bachillerato por Madurez,Bachillerato en Ingeniería de Sistemas
+180104,ACOSTA  SOZA EYSELL DE JESÚS,CINDEA ESCAZÚ,Bachillerato por Madurez,Licenciatura en Ingeniería de Sistemas
+180108,VELOZ  HERNÁNDEZ  MARÍA JOSEFINA,"CENTRO EDUCATIVO RAMÓN MARTE PICADO, REP. DOMINICANA",Colegio Extranjero,Licenciatura en Psicología
+180109,MEDRANO  DE GUZMÁN  GLENDA YAJAIRA,Instituto Tecnológico Cristiano Justo González Carrasco,Colegio Extranjero,Bachillerato en Administración de Empresas con Énfasis en Gerencia
+180109,MEDRANO  DE GUZMÁN  GLENDA YAJAIRA,Instituto Tecnológico Cristiano Justo González Carrasco,Colegio Extranjero,Licenciatura en Administración de Empresas
+180111,CRUZ DELCID KENSY MABEL,INSTITUTO CENTROAMERICANO ADVENTISTA,Colegio Privado,Bachillerato en Ciencias de la Educación con Énfasis en Español
+180111,CRUZ DELCID KENSY MABEL,INSTITUTO CENTROAMERICANO ADVENTISTA,Colegio Privado,Licenciatura en Educación con Énfasis en la Enseñanza del Español
+180113,QUIRÓS HERNÁNDEZ  YARIXA DE LOS ÁNGELES,COLEGIO TECNICO PROFESIONAL LA SUIZA,Colegio Público,Bachillerato en Ciencias de la Educación con Énfasis en Inglés
+180113,QUIRÓS HERNÁNDEZ  YARIXA DE LOS ÁNGELES,COLEGIO TECNICO PROFESIONAL LA SUIZA,Colegio Público,Licenciatura en la Enseñanza del Inglés
+180115,LÓPEZ ROVIRA  LUIS GUILLERMO,Liceo de Turrúcares,Colegio Público,Bachillerato en Ciencias de la Educación con Énfasis en Matemáticas
+180118,VEGA  LÓPEZ  ANDREY,LICEO EXPERIMENTAL BILINGUE DE GRECIA,Colegio Público,Bachillerato en Ciencias de la Educación con Énfasis en Inglés
+180121,BRIZO NÚÑEZ EDGAR JOSÉ,INSTITUTO OFICIAL FRANCISCO J. MEJÍA,Colegio Extranjero,Bachillerato en Teología
+180122,BRIZO NÚÑEZ ÓSCAR EDUARDO,INSTITUTO OFICIAL FRANCISCO J. MEJÍA,Colegio Extranjero,Bachillerato en Teología
+180123,CÓRDOVA RIVERA  JONATHAN JOSUÉ,INSTITUTO CENTROAMERICANO ADVENTISTA,Colegio Privado,Bachillerato en Ingeniería de Sistemas
+180123,CÓRDOVA RIVERA  JONATHAN JOSUÉ,INSTITUTO CENTROAMERICANO ADVENTISTA,Colegio Público,Bachillerato en Ingeniería de Sistemas
+180124,SEGURA  MORA  LEIDY RUTH,LICEO RURAL ISLA VENADO,Colegio Público,Bachillerato en Ciencias de la Educación con Énfasis en Estudios Sociales
+180124,SEGURA  MORA  LEIDY RUTH,LICEO RURAL ISLA VENADO,Colegio Público,Bachillerato en Enfermería
+180124,SEGURA  MORA  LEIDY RUTH,LICEO RURAL ISLA VENADO,Colegio Público,Licenciatura en Enfermería
+180125,BONILLA  RAMOS  CHRISTIAN FERNANDO,"INSTITUTO CRISTIANO ADVENIMIENTO, HONDURAS",Colegio Extranjero,Bachillerato en Teología
+180126,ESPINAL  SUAZO GERSON JOEL,INSTITUTO TECNOLÓGICO DE ADMINISTRACIÓN DE EMPRESAS,Colegio Extranjero,Bachillerato en Teología
+180127,MARTÍN  PADILLA RUTHBELY JANIRA,"Daniel Christian School, Honduras",Colegio Extranjero,Bachillerato en Ciencias de la Educación con Énfasis en Matemáticas
+180127,MARTÍN  PADILLA RUTHBELY JANIRA,"Daniel Christian School, Honduras",Colegio Extranjero,Licenciatura en Educación con Énfasis en la Enseñanza de la Matemática
+180128,QUIRÓZ . NORMA  PATRICIA,"INSTITUTO FELIPE ENRIQUE AGUSTINUS, HONDURAS",Colegio Extranjero,Bachillerato en Enfermería
+180128,QUIRÓZ . NORMA  PATRICIA,"INSTITUTO FELIPE ENRIQUE AGUSTINUS, HONDURAS",Colegio Extranjero,Licenciatura en Enfermería
+180129,LÓPEZ  PÉREZ ROSARIO MABEL,Instituto Privado Comayagua,Colegio Extranjero,Bachillerato en Administración de Empresas con Énfasis en Contabilidad
+180129,LÓPEZ  PÉREZ ROSARIO MABEL,Instituto Privado Comayagua,Colegio Extranjero,Licenciatura en Administración de Empresas
+180130,AMAYA CÁCERES RUT YANET,INSTITUTO HONDUREEÑO DE EDUCACIÓN POR RADIO,Colegio Extranjero,Bachillerato en Teología
+180130,AMAYA CÁCERES RUT YANET,INSTITUTO HONDUREEÑO DE EDUCACIÓN POR RADIO,Colegio Extranjero,Licenciatura en Psicología
+180130,AMAYA CÁCERES RUT YANET,INSTITUTO HONDUREEÑO DE EDUCACIÓN POR RADIO,Colegio Extranjero,Licenciatura en Teología
+180132,GUEVARA GARCÍA EDGAR ANTONIO,Colegio Carlos Pellicer,Colegio Extranjero,Bachillerato en Teología
+180132,GUEVARA GARCÍA EDGAR ANTONIO,Colegio Carlos Pellicer,Colegio Extranjero,Licenciatura en Teología
+180134,DE SOUZA  JUNIOR  JOSÉ EDIVALDO,COLEGIO ESTADUAL CARLOS ALBERTO DE DEUS,Colegio Extranjero,Bachillerato en Teología
+180135,FUENTES  ÁBREGO  EDITH SUGEY,Instituto Noé de Canjura,Colegio Extranjero,Bachillerato en Ciencias de la Educación con Énfasis en Preescolar
+180135,FUENTES  ÁBREGO  EDITH SUGEY,Instituto Noé de Canjura,Colegio Extranjero,Licenciatura en Educación con Énfasis en la Enseñanza de Preescolar
+180137,FACUNDO  MARTÍNEZ EVER ISAAC,LICEO AMERICANO ESPAÑOL,Colegio Extranjero,Bachillerato en Teología
+180138,TINOCO PERALTA  BISMARCK ANTONIO,"MINISTERIO DE EDUCACIÓN, CULTURA Y DEPORTES",Colegio Extranjero,Bachillerato en Administración de Empresas con Énfasis en Gerencia
+180140,GARCÍA PÉREZ  MARÍA ISABEL,Instituto Nacional de Nuevo Cuscatlan,Colegio Extranjero,Bachillerato en Ciencias de la Educación con Énfasis en Español
+180140,GARCÍA PÉREZ  MARÍA ISABEL,Instituto Nacional de Nuevo Cuscatlan,Colegio Extranjero,Licenciatura en Educación con Énfasis en la Enseñanza del Español
+180141,ROJAS  MIRANDA  RAQUEL MARÍA,CINDEA - SAN ISIDRO PEÑAS BLANCAS,Bachillerato por Madurez,Bachillerato en Administración de Empresas con Énfasis en Contabilidad
+180143,MALDONADO  BUENDÍA  BRENDA ELIZABETH,CENTRO PEDAGÓGICO GUATEMALA,Colegio Extranjero,Bachillerato en Ingeniería de Sistemas
+180143,MALDONADO  BUENDÍA  BRENDA ELIZABETH,CENTRO PEDAGÓGICO GUATEMALA,Colegio Extranjero,Licenciatura en Ingeniería de Sistemas
+180144,MUÑOZ GUTIÉRREZ CAROLINA ELIZABETH,REPÚBLICA DEL PERÚ,Colegio Extranjero,Licenciatura en Psicología
+180148,MARTÍNEZ  MENA  JANEYRI BERSABÉ,"COLEGIO ADVENTISTA SONSONATECO, EL SALVADOR",Colegio Extranjero,Bachillerato en Ciencias de la Educación con Énfasis en Matemáticas
+180148,MARTÍNEZ  MENA  JANEYRI BERSABÉ,"COLEGIO ADVENTISTA SONSONATECO, EL SALVADOR",Colegio Extranjero,Licenciatura en Educación con Énfasis en la Enseñanza de la Matemática
+180149,VILLEGAS  LÓPEZ  MARVIN ARTURO,COLEGIO DE BAGACES,Colegio Público,Bachillerato en Ciencias de la Educación con Énfasis en Estudios Sociales
+180149,VILLEGAS  LÓPEZ  MARVIN ARTURO,COLEGIO DE BAGACES,Colegio Público,Licenciatura en Educación con Énfasis en la Enseñanza de Estudios Sociales
+180150,PICADO  ORTIZ  LEONARD JAMES,LICEO RURAL BARRA DEL TORTUGUERO,Colegio Público,Bachillerato en Ingeniería de Sistemas
+180150,PICADO  ORTIZ  LEONARD JAMES,LICEO RURAL BARRA DEL TORTUGUERO,Colegio Público,Licenciatura en Ingeniería de Sistemas
+180152,CLARKE  . JAHAZIEL JAIEL,BELIZE ADVENTIST COLLEGE,Colegio Extranjero,Bachillerato en Teología
+180152,CLARKE  . JAHAZIEL JAIEL,BELIZE ADVENTIST COLLEGE,Colegio Extranjero,Licenciatura en Teología
+180154,IZARA LÓPEZ  ORLANDO EMANUEL,"Instituto Básico y Bachillerato por Madurez, Guatemala",Colegio Extranjero,Bachillerato en Teología
+180155,TINOCO CASTILLO  BISMARCK ANTONIO,"MINISTERIO DE EDUCACIÓN, NICARAGUA",Colegio Extranjero,Bachillerato en Administración de Empresas con Énfasis en Gerencia
+180156,SALAS  GONZÁLEZ DAVID,LICEO UNESCO,Colegio Público,Bachillerato en Ciencias de la Educación con Énfasis en Inglés
+180157,AYALA  SAUCEDA  JOSUÉ ARIEL,INSTITUTO OFICIAL POLIVALENTE REPÚBLICA DE VENEZUELA,Colegio Extranjero,Bachillerato en Teología
+180158,RUIZ  GARCÍA  EDWIN FERNANDO,INSTITUTO EDUARDO HERNÁNDEZ CHEVEZ,Colegio Extranjero,Bachillerato en Teología
+180158,RUIZ  GARCÍA  EDWIN FERNANDO,INSTITUTO EDUARDO HERNÁNDEZ CHEVEZ,Colegio Extranjero,Licenciatura en Teología
+180160,VÁZQUEZ  HERNÁNDEZ  KATHERINE YAMILETH,"COLEGIO ADVENTISTA SONSONATECO, EL SALVADOR",Colegio Extranjero,Licenciatura en Psicología
+180162,TUCKER  RIVAS  EDGAR ROBERT,INSTITUTO CENTROAMERICANO ADVENTISTA,Colegio Privado,Bachillerato en Administración de Empresas con Énfasis en Gerencia
+180163,JUÁREZ  GARCÍA  DEYDI MAGALÍ,"Instituto Carlos Dubón , Retalhuleu",Colegio Extranjero,Bachillerato en Ciencias de la Educación con Énfasis en Español
+180163,JUÁREZ  GARCÍA  DEYDI MAGALÍ,"Instituto Carlos Dubón , Retalhuleu",Colegio Extranjero,Licenciatura en Educación con Énfasis en la Enseñanza del Español
+180164,GUEVARA  AYALA  YOHELY ODILÍ,Instituto Parroquial La Milagrosa,Colegio Extranjero,Bachillerato en Enfermería
+180164,GUEVARA  AYALA  YOHELY ODILÍ,Instituto Parroquial La Milagrosa,Colegio Extranjero,Licenciatura en Enfermería
+180202,JACKSON  MOORE JAIMEE SUSAN,"INSTITUTO ADVENTISTA MANGROVE BIGHT, HONDURAS",Colegio Extranjero,Bachillerato en Ingeniería de Sistemas
+180203,CIMA  ESPINOZA  ALLYSON GHISLAINE,INSTITUTO ADVENTISTA BILINGUE MARANATHA,Colegio Extranjero,Bachillerato en Ciencias de la Educación con Énfasis en Preescolar
+180203,CIMA  ESPINOZA  ALLYSON GHISLAINE,INSTITUTO ADVENTISTA BILINGUE MARANATHA,Colegio Extranjero,Licenciatura en Educación con Énfasis en la Enseñanza de Preescolar
+180203,CIMA  ESPINOZA  ALLYSON GHISLAINE,INSTITUTO ADVENTISTA BILINGUE MARANATHA,Colegio Extranjero,Licenciatura en Psicología
+180204,DOMÍNGUEZ  KEY  GUSTAVO RAFAEL,INSTITUTO VOCACIONAL DE VENEZUELA,Colegio Extranjero,Bachillerato en Ingeniería de Sistemas
+180206,MARTÍNEZ  FLORES  VÍCTOR JOSUÉ,Liceo Rural Barra del Tortuguero,Colegio Público,Bachillerato en Ingeniería de Sistemas
+180207,PRECIADO BERROCAL  LUCÍA,"IPEC PUNTARENAS FRAY CASIANO DE MADRID, COSTA RICA",Colegio Público,Bachillerato en Ciencias de la Educación con Énfasis en Preescolar
+180207,PRECIADO BERROCAL  LUCÍA,"IPEC PUNTARENAS FRAY CASIANO DE MADRID, COSTA RICA",Colegio Público,Licenciatura en Educación con Énfasis en la Enseñanza de Preescolar
+180209,DÍAZ  SÁNCHEZ  ALEJANDRA ELIZABETH,INSTITUTO PROFESIONAL MIGUEL RAFAEL MADRID,Colegio Extranjero,Bachillerato en Enfermería
+180211,PALACIOS MEJÍA  JOSÉ ARMANDO,"INSTITUTO NACIONAL MANUEL LUIS ESCAMILLA, EL SALVADOR",Colegio Extranjero,Bachillerato en Teología
+180215,BOLAÑOS  GARCÍA  LUIS EDUARDO,"COLEGIO CORONEL FRANCISCO LINARES, EL SALVADOR",Colegio Extranjero,Bachillerato en Enfermería
+180215,BOLAÑOS  GARCÍA  LUIS EDUARDO,"COLEGIO CORONEL FRANCISCO LINARES, EL SALVADOR",Colegio Extranjero,Bachillerato en Teología
+180217,JIMÉNEZ  BARQUERO  MAYRON ADRIÁN,Liceo Poasito,Colegio Público,Bachillerato en Ciencias de la Educación con Énfasis en Estudios Sociales
+180218,MÉNDEZ  GONZÁLEZ  RUDY ESTUARDO,"Centro Educativo Retalteco de Formación Integral, Guatemala",Colegio Extranjero,Bachillerato en Teología
+180219,UMAÑA  ALVARADO  KATERIN SUSANA,"iNSTITUTO NACIONAL DE APASTEPEQUE, EL SALVADOR",Colegio Extranjero,Bachillerato en Enfermería
+180222,ROMERO  MARTÍNEZ  DOUGLAS JOSUÉ,"Colegio Adventista Sonsonateco, El Salvador",Colegio Extranjero,Bachillerato en Enfermería
+180225,RAMOS  AMAYA  FREDI ADIN,"COMPLEJO EDUCATIVO CASERÍO MONTECRISTO, EL SALVADOR",Colegio Extranjero,Bachillerato en Administración de Empresas con Énfasis en Contabilidad
+180226,JOHNSON  MORGAN  EDSON GUILLERMO,Centro Educativo Adventista de Limón,Colegio Extranjero,Bachillerato en Administración de Empresas con Énfasis en Contabilidad
+180227,RICO  GARCÍA  GODOFREDO,COMPLEJO EDUC ING RODOLFO ENRIQUE VARELA MANZANO,Colegio Extranjero,Bachillerato en Teología
+180228,MEJÍA  CHÉVEZ  STEVEN JOSUÉ,"MINISTERIO DE EDUCACIÓN, NICARAGUA",Colegio Extranjero,Bachillerato en Teología
