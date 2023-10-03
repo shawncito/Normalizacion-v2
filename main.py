@@ -85,11 +85,12 @@ def RPT_RG_04_EstudiantesInstitucion(archivo_xlsx):
         archivo_xlsx = archivo_xlsx[0]  # Tomar el primer archivo XLSX si hay varios
         # Construir el nombre de archivo de salida
         nombre_archivo = os.path.basename(archivo_xlsx)
-        archivo_salida = os.path.join("DATA_NORMALIZADA", nombre_archivo[:-5] + "_normalizado.csv")  # Cambiamos la extensión a CSV
+        a = ("INFORMACION_ESTUDIANTES_INSTITUCION")
+        archivo_salida = os.path.join("DATA_NORMALIZADA", a + ".csv")  # Cambiamos la extensión a CSV
 
         # Procesar el archivo XLSX
         procesar_archivo_RPT_RG_04(archivo_xlsx, archivo_salida)
-        print("Se ha procesado el archivo: " + "Informacion_estudiantes_Institucion")
+        print("Se ha procesado el archivo: " + "INFORMACION_ESTUDIANTES_INSTITUCION")
 
 def RPT_RG_05_EstadoEstudiantes(archivo_xlsx_rg_05):
     # Procesar archivo XLSX de RG_05 si existe
@@ -97,11 +98,12 @@ def RPT_RG_05_EstadoEstudiantes(archivo_xlsx_rg_05):
         archivo_xlsx_rg_05 = archivo_xlsx_rg_05[0]  # Tomar el primer archivo XLSX si hay varios
         # Construir el nombre de archivo de salida
         nombre_archivo = os.path.basename(archivo_xlsx_rg_05)
-        archivo_salida = os.path.join("DATA_NORMALIZADA", nombre_archivo[:-5] + "_normalizado.csv")  # Cambiamos la extensión a CSV
+        a = ("INFORMACION_ESTUDIANTES")
+        archivo_salida = os.path.join("DATA_NORMALIZADA", a + ".csv")  # Cambiamos la extensión a CSV
 
         # Procesar el archivo XLSX de RG_05
         procesar_archivo_RPT_RG_05(archivo_xlsx_rg_05, archivo_salida)
-        print("Se ha procesado el archivo: " + "Informacion_estudiantes")
+        print("Se ha procesado el archivo: " + "INFORMACION_ESTUDIANTES")
 
 
 def RPT_RG_01_Estudiantes(archivo_csv_rg_01):
@@ -110,12 +112,12 @@ def RPT_RG_01_Estudiantes(archivo_csv_rg_01):
         archivo_csv_rg_01 = archivo_csv_rg_01[0]  # Tomar el primer archivo CSV si hay varios
         # Construir el nombre de archivo de salida
         nombre_archivo = os.path.basename(archivo_csv_rg_01)
-        
-        archivo_salida = os.path.join("DATA_NORMALIZADA", nombre_archivo[:-4] + "_normalizado.csv")  # Cambiamos la extensión a CSV
+        a = ("NUMERO_ESTUDIANTES")
+        archivo_salida = os.path.join("DATA_NORMALIZADA", a + ".csv")  # Cambiamos la extensión a CSV
 
         # Procesar el archivo CSV de RG_01
         precesar_archivo_RPT_RG_01_estudiantes(archivo_csv_rg_01, archivo_salida)
-        print("Se ha procesado el archivo: " + "Numero_Estudiantes")
+        print("Se ha procesado el archivo: " + "NUMERO_ESTUDIANTES")
 
 
 def RPT_RM_03_EstudiantesNiveles(archivo_csv_rm_03):
